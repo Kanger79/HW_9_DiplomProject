@@ -18,7 +18,7 @@ services:
       - MYSQL_DATABASE=app
       - MYSQL_USER=app
       - MYSQL_PASSWORD=pass
-  node-app:
+  node-js:
     build: ./gate-simulator
     ports:
       - '9999:9999'
