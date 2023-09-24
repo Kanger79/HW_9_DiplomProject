@@ -8,9 +8,9 @@ services:
       - POSTGRES_DB=app
       - POSTGRES_USER=app
       - POSTGRES_PASSWORD=pass
-
   mysql:
     image: mysql:8.0.31
+#    restart: always
     ports:
       - '3306:3306'
     environment:
@@ -18,8 +18,7 @@ services:
       - MYSQL_DATABASE=app
       - MYSQL_USER=app
       - MYSQL_PASSWORD=pass
-
-  nodejs:
+  node-app:
     build: ./gate-simulator
     ports:
       - '9999:9999'

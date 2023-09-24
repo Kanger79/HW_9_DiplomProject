@@ -24,14 +24,14 @@
   
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-primitives-6143c8f97ed1.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-047ee6293fcd.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-7f2d4e2ce2fe.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-6dc242be27a0.css" />
-  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-f68e2653d00d.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-1ef6adcf9af4.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-0eb2e2dcb344.css" />
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-1fecec11b11c.css" />
 
   
 
-  <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=GXKB2CxopKD_Ar_mcBZ-C9HqvB9I8aj2rSz0MiVi3-eQpxX_x5D6L4hQPyTMLEMdOKqdAfMSQS6a-lsI_bzxvV_wKksctBQQDoTdmOG32CksOUN0tdCr8GzwAq0YbOJt" charset="UTF-8"></script><script type="application/json" id="client-env">{"locale":"en","featureFlags":["failbot_handle_non_errors","fix_react_title","geojson_azure_maps","image_metric_tracking","turbo_experiment_risky","sample_network_conn_type"]}</script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-3b732d5fc42b.js"></script>
+  <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=H-RrhbzpMeaVtQ_C2cIQKa2UBP7d7ckCLBvviW0YWpTx09HpMIuJ9_4TzXNjT3yLh1OUWF-Mp2YmHX1nC9m7t9wyu-QzQS2iKK-THZPcfHWf8-T5oaON2NPUBQH67TXA" charset="UTF-8"></script><script type="application/json" id="client-env">{"locale":"en","featureFlags":["failbot_handle_non_errors","geojson_azure_maps","hovercard_show_on_focus","image_metric_tracking","turbo_experiment_risky","sample_network_conn_type","star_button_focus"]}</script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-1d05abea76e8.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-64d590970fa6.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-a4c183-18bf85b8e9f4.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_soft-nav_soft-nav_ts-df17d5597d8f.js"></script>
@@ -39,12 +39,12 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_selector-observer_dist_index_esm_js-2646a2c533e3.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_focus-zone_js-d55308df5023.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_relative-time-element_dist_index_js-99e288659d4f.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_fzy_js_index_js-node_modules_github_markdown-toolbar-element_dist_index_js-d2119e75298d.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_fzy_js_index_js-node_modules_github_markdown-toolbar-element_dist_index_js-007410e871c1.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_auto-complete-element-5b3870-9b38c0812424.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-8873b7-5771678648e0.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-bdc901-0fe41db0acb6.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-6466cd5dafb5.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-2d801fae2ffd.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-d892b58419fa.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-9d9fe1859ce5.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_hydro-analytics-client_dist_analytics-client_js-node_modules_gith-f3aee1-fd3c22610e40.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_alive-client_dist-bf5aa2-4aefce0fc3c8.js"></script>
@@ -59,8 +59,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_task-list_ts-app_assets_modules_github_sso_ts-ui_packages-7d50ad-9491f2be61ee.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_ajax-error_ts-app_assets_modules_github_behaviors_include-2e2258-f7b8ad0ef997.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-f22ac6b94445.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_blob-anchor_ts-app_assets_modules_github_filter-sort_ts-app_assets_-c96432-b9f980134541.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-4921626b9078.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-c3c7145e95a3.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff531-fe0b8ccc90a5.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-f57687007bfc.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/code-menu-c743a13234fc.js"></script>
@@ -84,11 +83,11 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_BranchName_BranchName_js-node_modules_primer_react_-463c3e-fc3f4069d511.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_AvatarStack_AvatarStack_js-node_modules_primer_reac-957af0-600840646271.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_create-browser-history_ts-ui_packages_react-core_deferred-registry_ts--ebbb92-f46ec58c6478.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_register-app_ts-ffbec628c3f5.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_ref-selector_RefSelector_tsx-3a7d20d11151.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_react-shared_hooks_use-virtual-dynamic_ts-app_assets_modules_react-shared_-acdea4-f25752b8b16c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_alive_alive_ts-ui_packages_alive_connect-alive-subscription_ts-app_assets_modules-face4e-5be8048c836a.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-197e3ce6cf6e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_react-core_register-app_ts-4c8aa7d9158e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/ui_packages_ref-selector_RefSelector_tsx-9cbaf85c5199.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_blob-anchor_ts-app_assets_modules_github_filter-sort_ts-app_assets_-681869-f24eab09c9e6.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_react-code-view_pages_CodeView_tsx-d9723357db97.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-ccc0c36478f2.js"></script>
 
 
   <title>qa-diploma/gate-simulator/app.js at master · netology-code/qa-diploma</title>
@@ -101,7 +100,7 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="CB5D:2588:25C6813:2630683:650B5200" data-turbo-transient="true" /><meta name="html-safe-nonce" content="b3985199ec0b3403a28227c1f2899b3a2b68c72f6c358d7601ee228eb255c768" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9uZXRvbG9neS1jb2RlL3FhLWRpcGxvbWEvdHJlZS9tYXN0ZXIvZ2F0ZS1zaW11bGF0b3IiLCJyZXF1ZXN0X2lkIjoiQ0I1RDoyNTg4OjI1QzY4MTM6MjYzMDY4Mzo2NTBCNTIwMCIsInZpc2l0b3JfaWQiOiI0ODM1MjMyMTk1OTI5MzM2MTU5IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="413b3c6f17deaab20d9ab8da12f42c93402b463193947cd20ab2e939fe67935f" data-turbo-transient="true" />
+  <meta name="request-id" content="2489:575F:42B63ED:43DF061:65103C06" data-turbo-transient="true" /><meta name="html-safe-nonce" content="b3985199ec0b3403a28227c1f2899b3a2b68c72f6c358d7601ee228eb255c768" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9uZXRvbG9neS1jb2RlL3FhLWRpcGxvbWEvdHJlZS9tYXN0ZXIvZ2F0ZS1zaW11bGF0b3IiLCJyZXF1ZXN0X2lkIjoiMjQ4OTo1NzVGOjQyQjYzRUQ6NDNERjA2MTo2NTEwM0MwNiIsInZpc2l0b3JfaWQiOiI0ODM1MjMyMTk1OTI5MzM2MTU5IiwicmVnaW9uX2VkZ2UiOiJmcmEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="13da6931c5d211a469355dfec12c17d82af6dd52f5ba2204fe3ed0a8b4a4df80" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:223378063" data-turbo-transient>
@@ -145,7 +144,7 @@
       <meta property="og:image" content="https://opengraph.githubassets.com/2fb46dc9ef622d4f141101038025e302f6648045198578db2c381e140a21ed8d/netology-code/qa-diploma" /><meta property="og:image:alt" content="Contribute to netology-code/qa-diploma development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="qa-diploma/gate-simulator/app.js at master · netology-code/qa-diploma" /><meta property="og:url" content="https://github.com/netology-code/qa-diploma/blob/master/gate-simulator/app.js" /><meta property="og:description" content="Contribute to netology-code/qa-diploma development by creating an account on GitHub." />
       
 
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/127352228/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjczNTIyMjgsInMiOjExODYwODM1NDIsImMiOjIwMjgzMTc0NjgsInQiOjE2OTUyNDA3MTB9--9a817856a5063b3c0af754e442206317fb999e6bb0e4f9d999cb7605210192c6" data-refresh-url="/_alive" data-session-id="fc120097ee7b163381d4f647d736f1123d4602e2e4e8a1a272cad8b8159ce71b">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/127352228/ws?session=eyJ2IjoiVjMiLCJ1IjoxMjczNTIyMjgsInMiOjExODYwODM1NDIsImMiOjM4MjA2MDUyNzksInQiOjE2OTU1NjI3Njd9--6db7e271ab395e9582a0202eb25155c0e8e8b1a6a9ee9237eb9fee16dca50e8d" data-refresh-url="/_alive" data-session-id="fc120097ee7b163381d4f647d736f1123d4602e2e4e8a1a272cad8b8159ce71b">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-cee473359cfe.js">
 
 
@@ -157,10 +156,10 @@
         <meta name="expected-hostname" content="github.com">
 
 
-  <meta http-equiv="x-pjax-version" content="23e95f1bce1691732a62b30b98365903dad2347e55ca9c1701263f6c8b790eed" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="f80dd3cba0cc2392700f390cf12b63b58a390861b79cc4f939fcbc8bfb7e37c6" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="e804c38ee3350492314d64554f04af42b36a24b682b0e84414a6d326d62b74dc" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="4678bdbc9b2d4223b0135c2169f20fde8270300994fd50ae1de9a158d6fde445" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="0fb3fa88ea120e826e484a0b1dc1772db759e27c3f59897aea39327a425aaaef" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="dbb03309ff3a7580a4bb42bd96ba8f5412ef31b10b806a09ab932c23d368d93a" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="02690ce8bfe11c0049b700e9058c04b7dd748ca0d76c3ab775a1ae7c5075704a" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -221,17 +220,17 @@
           <deferred-side-panel data-url="/_side-panels/global">
   <include-fragment data-target="deferred-side-panel.fragment">
       
-  <button aria-label="Open global navigation menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-fe08ae9d-14db-4cbc-a347-69e74fae751b" id="dialog-show-dialog-fe08ae9d-14db-4cbc-a347-69e74fae751b" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-bg-transparent p-0 color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-three-bars Button-visual">
+  <button aria-label="Open global navigation menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-cda3fd9f-c5fc-4e35-932d-b94d60124e11" id="dialog-show-dialog-cda3fd9f-c5fc-4e35-932d-b94d60124e11" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-bg-transparent p-0 color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-three-bars Button-visual">
     <path d="M1 2.75A.75.75 0 0 1 1.75 2h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 2.75Zm0 5A.75.75 0 0 1 1.75 7h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 7.75ZM1.75 12h12.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1 0-1.5Z"></path>
 </svg>
 </button>  
 
 <div class="Overlay--hidden Overlay-backdrop--side Overlay-backdrop--placement-left" data-modal-dialog-overlay>
-  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-fe08ae9d-14db-4cbc-a347-69e74fae751b" aria-modal="true" aria-disabled="true" aria-labelledby="dialog-fe08ae9d-14db-4cbc-a347-69e74fae751b-title" aria-describedby="dialog-fe08ae9d-14db-4cbc-a347-69e74fae751b-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
+  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-cda3fd9f-c5fc-4e35-932d-b94d60124e11" aria-modal="true" aria-disabled="true" aria-labelledby="dialog-cda3fd9f-c5fc-4e35-932d-b94d60124e11-title" aria-describedby="dialog-cda3fd9f-c5fc-4e35-932d-b94d60124e11-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
     <div styles="flex-direction: row;" data-view-component="true" class="Overlay-header">
   <div class="Overlay-headerContentWrap">
     <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title sr-only" id="dialog-fe08ae9d-14db-4cbc-a347-69e74fae751b-title">
+      <h1 class="Overlay-title sr-only" id="dialog-cda3fd9f-c5fc-4e35-932d-b94d60124e11-title">
         Global navigation
       </h1>
             <div data-view-component="true" class="d-flex">
@@ -242,7 +241,7 @@
 </div></div>
     </div>
     <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="dialog-fe08ae9d-14db-4cbc-a347-69e74fae751b" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+      <button data-close-dialog-id="dialog-cda3fd9f-c5fc-4e35-932d-b94d60124e11" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg></button>
     </div>
@@ -256,7 +255,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g d" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;HOME&quot;,&quot;label&quot;:null}" id="item-884fc361-e84e-481e-b493-c78ea2c72cc4" href="/dashboard" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g d" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;HOME&quot;,&quot;label&quot;:null}" id="item-9994e9cb-45c1-43ea-b054-6513c852d575" href="/dashboard" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-home">
     <path d="M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z"></path>
@@ -274,7 +273,7 @@
           
 <li item_id="personal_info" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;ISSUES&quot;,&quot;label&quot;:null}" id="item-e2d08a2c-ce72-43a3-8d27-30d015e900fd" href="/issues" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;ISSUES&quot;,&quot;label&quot;:null}" id="item-8dbbe023-ed96-4aaf-9543-d73028ca9f4e" href="/issues" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -292,7 +291,7 @@
           
 <li item_id="password" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PULL_REQUESTS&quot;,&quot;label&quot;:null}" id="item-25410899-7965-44de-ba13-94a4abf00fba" href="/pulls" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PULL_REQUESTS&quot;,&quot;label&quot;:null}" id="item-f5f82f77-cffb-4438-9bb2-09272e2c08bb" href="/pulls" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -310,7 +309,7 @@
           
 <li item_id="billing" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;DISCUSSIONS&quot;,&quot;label&quot;:null}" id="item-6f09d126-6efe-44c5-884b-ff2f0b813f2d" href="/discussions" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;DISCUSSIONS&quot;,&quot;label&quot;:null}" id="item-dcf37c50-53ab-479d-bf28-764876e2ecc7" href="/discussions" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
     <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
@@ -344,7 +343,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;EXPLORE&quot;,&quot;label&quot;:null}" id="item-9887091a-7c69-4679-bfdb-2abb76a9c9e2" href="/explore" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;EXPLORE&quot;,&quot;label&quot;:null}" id="item-c409f385-80a9-4aa2-ada7-d95fb0c7060e" href="/explore" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-telescope">
     <path d="M14.184 1.143v-.001l1.422 2.464a1.75 1.75 0 0 1-.757 2.451L3.104 11.713a1.75 1.75 0 0 1-2.275-.702l-.447-.775a1.75 1.75 0 0 1 .53-2.32L11.682.573a1.748 1.748 0 0 1 2.502.57Zm-4.709 9.32h-.001l2.644 3.863a.75.75 0 1 1-1.238.848l-1.881-2.75v2.826a.75.75 0 0 1-1.5 0v-2.826l-1.881 2.75a.75.75 0 1 1-1.238-.848l2.049-2.992a.746.746 0 0 1 .293-.253l1.809-.87a.749.749 0 0 1 .944.252ZM9.436 3.92h-.001l-4.97 3.39.942 1.63 5.42-2.61Zm3.091-2.108h.001l-1.85 1.26 1.505 2.605 2.016-.97a.247.247 0 0 0 .13-.151.247.247 0 0 0-.022-.199l-1.422-2.464a.253.253 0 0 0-.161-.119.254.254 0 0 0-.197.038ZM1.756 9.157a.25.25 0 0 0-.075.33l.447.775a.25.25 0 0 0 .325.1l1.598-.769-.83-1.436-1.465 1Z"></path>
@@ -362,7 +361,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;MARKETPLACE&quot;,&quot;label&quot;:null}" id="item-a788ecfb-db82-4323-93ae-40edfbb0cca2" href="/marketplace" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;MARKETPLACE&quot;,&quot;label&quot;:null}" id="item-da164911-7437-4465-98b3-143a04105108" href="/marketplace" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gift">
     <path d="M2 2.75A2.75 2.75 0 0 1 4.75 0c.983 0 1.873.42 2.57 1.232.268.318.497.668.68 1.042.183-.375.411-.725.68-1.044C9.376.42 10.266 0 11.25 0a2.75 2.75 0 0 1 2.45 4h.55c.966 0 1.75.784 1.75 1.75v2c0 .698-.409 1.301-1 1.582v4.918A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V9.332C.409 9.05 0 8.448 0 7.75v-2C0 4.784.784 4 1.75 4h.55c-.192-.375-.3-.8-.3-1.25ZM7.25 9.5H2.5v4.75c0 .138.112.25.25.25h4.5Zm1.5 0v5h4.5a.25.25 0 0 0 .25-.25V9.5Zm0-4V8h5.5a.25.25 0 0 0 .25-.25v-2a.25.25 0 0 0-.25-.25Zm-7 0a.25.25 0 0 0-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-5.5Zm3-4a1.25 1.25 0 0 0 0 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707ZM8.941 4h2.309a1.25 1.25 0 0 0 0-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793Z"></path>
@@ -380,7 +379,7 @@
           
 <li item_id="feedback" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;FEEDBACK&quot;,&quot;label&quot;:null}" id="item-8353b76b-955b-4a0e-be41-93d3fd8336dc" href="https://gh.io/navigation-update" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;FEEDBACK&quot;,&quot;label&quot;:null}" id="item-e2f53d2c-cd40-48e4-a1d7-604cd9fbedce" href="https://gh.io/navigation-update" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
     <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
@@ -527,7 +526,7 @@
               
 
 
-<qbsearch-input class="search-input" data-scope="repo:netology-code/qa-diploma" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="Ff5zYctxxUKei2WRSXYvWO101u-s7M_Kxylrf0GqIweJiLihY034P_bK9M4tujzsN08gikCYBhSdgFYsXbFH9Q" data-max-custom-scopes="10" data-header-redesign-enabled="true" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="netology-code/qa-diploma" data-current-org="netology-code" data-current-owner="" data-logged-in="true">
+<qbsearch-input class="search-input" data-scope="repo:netology-code/qa-diploma" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="hzZiqE55-5bR1F-7LCmdqmeQooam5-B0pZQAv1g-j2UbQKlo5kXG67mVzuRI5Y4evatU40qTKar_PT3sRCXrlw" data-max-custom-scopes="10" data-header-redesign-enabled="true" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="netology-code/qa-diploma" data-current-org="netology-code" data-current-owner="" data-logged-in="true">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center height-auto color-bg-transparent border-0 color-fg-subtle mx-0"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -577,7 +576,7 @@
 </svg>
       </button>
 
-      <tool-tip id="tooltip-814c4735-5808-4f32-8ac3-25de6bd3ef88" for="AppHeader-commandPalette-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Command palette</tool-tip>
+      <tool-tip id="tooltip-b03680e3-8bee-47f0-a66a-ea304114e0d6" for="AppHeader-commandPalette-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Command palette</tool-tip>
   </div>
 </div>
 
@@ -617,7 +616,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-a7bb58bf-8b69-4076-95dd-4cd357a8cf6e" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-36192970-fb96-4c6e-8cc4-3ae19964ea8c" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -723,7 +722,7 @@
                   id="query-builder-test-results"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-a7bb58bf-8b69-4076-95dd-4cd357a8cf6e" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-36192970-fb96-4c6e-8cc4-3ae19964ea8c" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -767,7 +766,7 @@
     </div>
   </div>
 </div>
-      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="snuK9UBquPuqYbOO1POv4R2jEOS6rIsqLk4EjcKGpb8NKAxCDQgAEwbY1LaRn7ebyL8N4n2goDntiAf4lO-OdA" />
+      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BzE3g1BNNzbHy-SkZQluurHSdX2gTvGd6xsMVJdlGyS4YrE0HS-P3mtyg5wgZXbAZM5oe2dC2o4o3Q8hwQww7w" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -802,7 +801,7 @@
       <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cLxd4XgltmxRWcktuyvAhWSaIYiTuCkwW9IXO8D5jIs9Lu7MGNJv95-BJ5fcbQPIYMoAB7yrRNpzxV-KbDyFqg" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Id5-FkPE6O2m0LEYHxQi0sMkU_wV-ItlW2rbUGunL8dsTM07IzMxdmgIX6J4UuGfx3Ryczrr5o9zfZPhx2Im5g" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -820,7 +819,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" value="Ek0_0TMNg156yc2ksCwau1sq-8Uos44Rt6RcSWhZRe-c7xq4WgQV7_mTxlTPvsu59IdFWiZOXnZhZUgdCHASog" data-csrf="true" />
+              <input type="hidden" value="Zt1FilYwhQcY31YDIbrX2j1jWrnc7YBHNpSJVHXvKZDof2DjPzkTtpuFXfNeKAbYks7kJtIQUCDgVZ0AFcZ-3Q" data-csrf="true" />
             </auto-check>
           </div>
 
@@ -856,7 +855,7 @@
 </modal-dialog></div>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" value="lkcnYbuZ5lDX9ganTuWBI7AOzHPoIUs6-tsE7epv8Ag6qgso47h3IxXgSgm8b1IFOL7S_PtofVI-Vy55RCN9jg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+</qbsearch-input><input type="hidden" value="k5f6-QopnTa07FjYg2Ng_O2zoUzzBQNiDyWl6W_4FFU_etawUggMRXb6FHZx6bPaZQO_w-BMNQrLqY99wbSZ0w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
 
           </div>
 
@@ -873,7 +872,7 @@
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg></span>
     </span>
-</button>  <tool-tip id="tooltip-69b2ff7d-4cc6-4541-a356-1cde3b2af3a8" for="global-create-menu-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Create new...</tool-tip>
+</button>  <tool-tip id="tooltip-aa5d748b-d6c3-4a58-b512-c86e28ebd971" for="global-create-menu-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Create new...</tool-tip>
 </div>
 
 <anchored-position id="global-create-menu-overlay" anchor="global-create-menu-button" align="end" side="outside-bottom" anchor-offset="normal" popover="auto" aria-label="Menu" data-view-component="true">
@@ -884,7 +883,7 @@
   <ul aria-labelledby="global-create-menu-button" id="global-create-menu-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new repository&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/new" tabindex="-1" id="item-d4e2460d-cd89-4f4b-adab-dcc27243a991" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/new" tabindex="-1" id="item-910cb037-aa91-4a98-a126-2ed84e29bbf3" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo">
     <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
@@ -900,7 +899,7 @@
 </li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;import repository&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/new/import" tabindex="-1" id="item-5c488756-86dc-4bdf-a20b-6e6e3af8c0d8" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/new/import" tabindex="-1" id="item-42524326-29f5-4fd5-90b8-c01ff7e0ec7e" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-push">
     <path d="M1 2.5A2.5 2.5 0 0 1 3.5 0h8.75a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0V1.5h-8a1 1 0 0 0-1 1v6.708A2.493 2.493 0 0 1 3.5 9h3.25a.75.75 0 0 1 0 1.5H3.5a1 1 0 0 0 0 2h5.75a.75.75 0 0 1 0 1.5H3.5A2.5 2.5 0 0 1 1 11.5Zm13.23 7.79h-.001l-1.224-1.224v6.184a.75.75 0 0 1-1.5 0V9.066L10.28 10.29a.75.75 0 0 1-1.06-1.061l2.505-2.504a.75.75 0 0 1 1.06 0L15.29 9.23a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018Z"></path>
@@ -917,7 +916,7 @@
       <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new codespace&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/codespaces/new" tabindex="-1" id="item-644bff8a-b509-41c1-b115-a0d42013dee7" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/codespaces/new" tabindex="-1" id="item-d785617c-6ebe-46ee-90a7-3cc0596ba32d" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-codespaces">
     <path d="M0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm2-9.5C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 0 1-1.75 1.75h-8.5A1.75 1.75 0 0 1 2 6.75Zm1.75-.25a.25.25 0 0 0-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5a.25.25 0 0 0-.25-.25Zm-2 9.5a.25.25 0 0 0-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-3a.25.25 0 0 0-.25-.25Z"></path><path d="M7 12.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
@@ -933,7 +932,7 @@
 </li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new gist&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="https://gist.github.com/" tabindex="-1" id="item-6c8b79e3-9476-4568-808f-1f7177b43f69" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="https://gist.github.com/" tabindex="-1" id="item-d06d3267-b98f-4d16-8f0f-c545b161c10d" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -950,7 +949,7 @@
       <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new organization&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/account/organizations/new" tabindex="-1" id="item-83648c1f-1f5d-4958-a26e-d03f1ca716be" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/account/organizations/new" tabindex="-1" id="item-df587adb-cb8b-43b2-8c44-44ddfd3de5f6" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization">
     <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
@@ -971,22 +970,22 @@
 </action-menu>
 
             <div data-view-component="true" class="Button-withTooltip">
-  <a href="/issues" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;ISSUES_HEADER&quot;,&quot;label&quot;:null}" id="icon-button-5cb877e5-89d7-4ba4-be10-237005741517" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened Button-visual">
+  <a href="/issues" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;ISSUES_HEADER&quot;,&quot;label&quot;:null}" id="icon-button-d0755ef1-199d-484c-a8b6-81e8464cd461" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened Button-visual">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
 </svg>
-</a>  <tool-tip id="tooltip-5381b815-99a2-4be1-9638-f753ad2be1a2" for="icon-button-5cb877e5-89d7-4ba4-be10-237005741517" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Issues</tool-tip>
+</a>  <tool-tip id="tooltip-91dfa667-b177-4561-a48e-4856e0a1360e" for="icon-button-d0755ef1-199d-484c-a8b6-81e8464cd461" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Issues</tool-tip>
 </div>
             <div data-view-component="true" class="Button-withTooltip">
-  <a href="/pulls" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PULL_REQUESTS_HEADER&quot;,&quot;label&quot;:null}" id="icon-button-8ae6b1cc-3fbf-419b-b2ea-1003ddbf31f5" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request Button-visual">
+  <a href="/pulls" data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PULL_REQUESTS_HEADER&quot;,&quot;label&quot;:null}" id="icon-button-42b15a04-cbdd-46d4-8e6d-bf44e41b0a0a" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request Button-visual">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
 </svg>
-</a>  <tool-tip id="tooltip-66f962d1-4f7b-4a86-b8b5-ee31a0df8a8a" for="icon-button-8ae6b1cc-3fbf-419b-b2ea-1003ddbf31f5" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Pull requests</tool-tip>
+</a>  <tool-tip id="tooltip-d9649ef0-dcb6-4736-8b4e-9243faee300c" for="icon-button-42b15a04-cbdd-46d4-8e6d-bf44e41b0a0a" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Pull requests</tool-tip>
 </div>
         </div>
 
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI3MzUyMjI4IiwidCI6MTY5NTI0MDcxMH0=--ebe05ec57fd7844b9dcfb6dac7813c2d34074c0d3fec581b14fe1bc76cc8e124" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-header-redesign-enabled="true" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI3MzUyMjI4IiwidCI6MTY5NTU2Mjc2N30=--a79fe6c1aeb136d86f00b79a6690483ee1c9d4c077d28afff01a59405749c2bf" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-header-redesign-enabled="true" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="AppHeader-button Button--secondary"
 
@@ -1009,7 +1008,7 @@
 </svg>
   </a>
 
-    <tool-tip data-target="notification-indicator.tooltip" id="tooltip-39cb2bff-bdda-46f7-8cfd-c6431b305711" for="AppHeader-notifications-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Notifications</tool-tip>
+    <tool-tip data-target="notification-indicator.tooltip" id="tooltip-a8617eef-0602-4776-a940-121db9547117" for="AppHeader-notifications-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Notifications</tool-tip>
 </notification-indicator>
 
         
@@ -1018,17 +1017,17 @@
           <deferred-side-panel data-url="/_side-panels/user?memex_enabled=true&amp;repository=qa-diploma&amp;user=Kanger79&amp;user_can_create_organizations=true&amp;user_id=127352228">
   <include-fragment data-target="deferred-side-panel.fragment">
       <user-drawer-side-panel>
-      <button aria-label="Open user account menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-c62940d8-fd6e-44a7-a676-08529f532da4" id="dialog-show-dialog-c62940d8-fd6e-44a7-a676-08529f532da4" type="button" data-view-component="true" class="AppHeader-logo Button--invisible Button--medium Button Button--invisible-noVisuals color-bg-transparent p-0">    <span class="Button-content">
+      <button aria-label="Open user account menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-aa9ac3ff-522c-4759-86ee-9a176c326acf" id="dialog-show-dialog-aa9ac3ff-522c-4759-86ee-9a176c326acf" type="button" data-view-component="true" class="AppHeader-logo Button--invisible Button--medium Button Button--invisible-noVisuals color-bg-transparent p-0">    <span class="Button-content">
       <span class="Button-label"><img src="https://avatars.githubusercontent.com/u/127352228?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle" /></span>
     </span>
 </button>  
 
 <div class="Overlay--hidden Overlay-backdrop--side Overlay-backdrop--placement-right" data-modal-dialog-overlay>
-  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-c62940d8-fd6e-44a7-a676-08529f532da4" aria-modal="true" aria-disabled="true" aria-labelledby="dialog-c62940d8-fd6e-44a7-a676-08529f532da4-title" aria-describedby="dialog-c62940d8-fd6e-44a7-a676-08529f532da4-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
+  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-aa9ac3ff-522c-4759-86ee-9a176c326acf" aria-modal="true" aria-disabled="true" aria-labelledby="dialog-aa9ac3ff-522c-4759-86ee-9a176c326acf-title" aria-describedby="dialog-aa9ac3ff-522c-4759-86ee-9a176c326acf-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
     <div styles="flex-direction: row;" data-view-component="true" class="Overlay-header">
   <div class="Overlay-headerContentWrap">
     <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title sr-only" id="dialog-c62940d8-fd6e-44a7-a676-08529f532da4-title">
+      <h1 class="Overlay-title sr-only" id="dialog-aa9ac3ff-522c-4759-86ee-9a176c326acf-title">
         Account menu
       </h1>
             <div data-view-component="true" class="d-flex">
@@ -1044,7 +1043,7 @@
 </div>
     </div>
     <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="dialog-c62940d8-fd6e-44a7-a676-08529f532da4" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+      <button data-close-dialog-id="dialog-aa9ac3ff-522c-4759-86ee-9a176c326acf" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg></button>
     </div>
@@ -1058,7 +1057,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-ae74dda6-a535-4fca-a583-bc7c237405db" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-e3e1999b-e7e9-4c15-a51d-866174546410" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none" />
@@ -1085,7 +1084,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PROFILE&quot;,&quot;label&quot;:null}" id="item-c98fde72-6696-4d33-b871-b23c6c64e94a" href="https://github.com/Kanger79" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;PROFILE&quot;,&quot;label&quot;:null}" id="item-c963639c-cb00-44a0-a8ad-dfc0328dbc8c" href="https://github.com/Kanger79" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-person">
     <path d="M10.561 8.073a6.005 6.005 0 0 1 3.432 5.142.75.75 0 1 1-1.498.07 4.5 4.5 0 0 0-8.99 0 .75.75 0 0 1-1.498-.07 6.004 6.004 0 0 1 3.431-5.142 3.999 3.999 0 1 1 5.123 0ZM10.5 5a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path>
@@ -1105,7 +1104,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;YOUR_REPOSITORIES&quot;,&quot;label&quot;:null}" id="item-de604ec4-20cb-4f91-b124-11a52ced0d9a" href="/Kanger79?tab=repositories" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;YOUR_REPOSITORIES&quot;,&quot;label&quot;:null}" id="item-d703ea81-2385-4476-8e5f-8fff4ea39e9e" href="/Kanger79?tab=repositories" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo">
     <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
@@ -1123,7 +1122,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;YOUR_PROJECTS&quot;,&quot;label&quot;:null}" id="item-02e2f7e4-4cd3-4eb1-8ab5-eb9b54d21217" href="/Kanger79?tab=projects" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;YOUR_PROJECTS&quot;,&quot;label&quot;:null}" id="item-4fe2f317-0a74-4a2d-8bf6-081621ff2589" href="/Kanger79?tab=projects" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project">
     <path d="M1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0ZM1.5 1.75v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25ZM11.75 3a.75.75 0 0 1 .75.75v7.5a.75.75 0 0 1-1.5 0v-7.5a.75.75 0 0 1 .75-.75Zm-8.25.75a.75.75 0 0 1 1.5 0v5.5a.75.75 0 0 1-1.5 0ZM8 3a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0v-3.5A.75.75 0 0 1 8 3Z"></path>
@@ -1141,7 +1140,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;YOUR_CODESPACES&quot;,&quot;label&quot;:null}" id="item-12ee07f0-bf4b-4fbd-9215-ebe84e07b16e" href="/codespaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;YOUR_CODESPACES&quot;,&quot;label&quot;:null}" id="item-2577eefb-4018-440b-b0e1-8933bb17a3ec" href="/codespaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-codespaces">
     <path d="M0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm2-9.5C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 0 1-1.75 1.75h-8.5A1.75 1.75 0 0 1 2 6.75Zm1.75-.25a.25.25 0 0 0-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5a.25.25 0 0 0-.25-.25Zm-2 9.5a.25.25 0 0 0-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-3a.25.25 0 0 0-.25-.25Z"></path><path d="M7 12.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
@@ -1159,7 +1158,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-ea672829-8c77-4923-8714-27ec46546359" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-15ff4ea4-1dee-4fe9-8e1d-4227916967ee" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none" />
@@ -1184,7 +1183,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;YOUR_STARS&quot;,&quot;label&quot;:null}" id="item-773ffd99-a7d2-4d96-a17a-6b3bd87f531c" href="/Kanger79?tab=stars" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;YOUR_STARS&quot;,&quot;label&quot;:null}" id="item-5ecc8f11-313f-4442-9aac-7d64b8db4df6" href="/Kanger79?tab=stars" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
@@ -1202,7 +1201,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;SPONSORS&quot;,&quot;label&quot;:null}" id="item-c92e17af-f797-4d9a-8cb1-69b43a5731a4" href="/sponsors/accounts" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;SPONSORS&quot;,&quot;label&quot;:null}" id="item-12220ff8-6da7-458f-8e72-542d07aa06da" href="/sponsors/accounts" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-heart">
     <path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
@@ -1220,7 +1219,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;YOUR_GISTS&quot;,&quot;label&quot;:null}" id="item-af3a2a10-5f54-480e-9003-29f3b5de4871" href="https://gist.github.com/mine" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;YOUR_GISTS&quot;,&quot;label&quot;:null}" id="item-6cc16c1c-f5c2-4f91-81f3-4e634fe12691" href="https://gist.github.com/mine" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code-square">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25Zm7.47 3.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L10.69 8 9.22 6.53a.75.75 0 0 1 0-1.06ZM6.78 6.53 5.31 8l1.47 1.47a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1240,7 +1239,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-9f302d4f-c207-4622-b7d6-4864dc88b975" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-ed00bb31-3c5d-483e-8310-a5f994f1c4cd" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none" />
@@ -1265,7 +1264,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-68617498-626c-466a-a05a-0a7a507b139c" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-ae5c351b-4fd1-457b-99da-64225423279c" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none" />
@@ -1290,7 +1289,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-fcf57f1b-e7c7-4712-98fc-87099b25f86d" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-394884fe-32d4-4463-ace1-f68b92f93d44" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none" />
@@ -1315,7 +1314,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;SETTINGS&quot;,&quot;label&quot;:null}" id="item-59ce4c94-1bc3-4b05-b1fc-faa6ff058104" href="/settings/profile" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;SETTINGS&quot;,&quot;label&quot;:null}" id="item-81b28c59-4f4a-4b25-85a8-52325ba870ef" href="/settings/profile" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gear">
     <path d="M8 0a8.2 8.2 0 0 1 .701.031C9.444.095 9.99.645 10.16 1.29l.288 1.107c.018.066.079.158.212.224.231.114.454.243.668.386.123.082.233.09.299.071l1.103-.303c.644-.176 1.392.021 1.82.63.27.385.506.792.704 1.218.315.675.111 1.422-.364 1.891l-.814.806c-.049.048-.098.147-.088.294.016.257.016.515 0 .772-.01.147.038.246.088.294l.814.806c.475.469.679 1.216.364 1.891a7.977 7.977 0 0 1-.704 1.217c-.428.61-1.176.807-1.82.63l-1.102-.302c-.067-.019-.177-.011-.3.071a5.909 5.909 0 0 1-.668.386c-.133.066-.194.158-.211.224l-.29 1.106c-.168.646-.715 1.196-1.458 1.26a8.006 8.006 0 0 1-1.402 0c-.743-.064-1.289-.614-1.458-1.26l-.289-1.106c-.018-.066-.079-.158-.212-.224a5.738 5.738 0 0 1-.668-.386c-.123-.082-.233-.09-.299-.071l-1.103.303c-.644.176-1.392-.021-1.82-.63a8.12 8.12 0 0 1-.704-1.218c-.315-.675-.111-1.422.363-1.891l.815-.806c.05-.048.098-.147.088-.294a6.214 6.214 0 0 1 0-.772c.01-.147-.038-.246-.088-.294l-.815-.806C.635 6.045.431 5.298.746 4.623a7.92 7.92 0 0 1 .704-1.217c.428-.61 1.176-.807 1.82-.63l1.102.302c.067.019.177.011.3-.071.214-.143.437-.272.668-.386.133-.066.194-.158.211-.224l.29-1.106C6.009.645 6.556.095 7.299.03 7.53.01 7.764 0 8 0Zm-.571 1.525c-.036.003-.108.036-.137.146l-.289 1.105c-.147.561-.549.967-.998 1.189-.173.086-.34.183-.5.29-.417.278-.97.423-1.529.27l-1.103-.303c-.109-.03-.175.016-.195.045-.22.312-.412.644-.573.99-.014.031-.021.11.059.19l.815.806c.411.406.562.957.53 1.456a4.709 4.709 0 0 0 0 .582c.032.499-.119 1.05-.53 1.456l-.815.806c-.081.08-.073.159-.059.19.162.346.353.677.573.989.02.03.085.076.195.046l1.102-.303c.56-.153 1.113-.008 1.53.27.161.107.328.204.501.29.447.222.85.629.997 1.189l.289 1.105c.029.109.101.143.137.146a6.6 6.6 0 0 0 1.142 0c.036-.003.108-.036.137-.146l.289-1.105c.147-.561.549-.967.998-1.189.173-.086.34-.183.5-.29.417-.278.97-.423 1.529-.27l1.103.303c.109.029.175-.016.195-.045.22-.313.411-.644.573-.99.014-.031.021-.11-.059-.19l-.815-.806c-.411-.406-.562-.957-.53-1.456a4.709 4.709 0 0 0 0-.582c-.032-.499.119-1.05.53-1.456l.815-.806c.081-.08.073-.159.059-.19a6.464 6.464 0 0 0-.573-.989c-.02-.03-.085-.076-.195-.046l-1.102.303c-.56.153-1.113.008-1.53-.27a4.44 4.44 0 0 0-.501-.29c-.447-.222-.85-.629-.997-1.189l-.289-1.105c-.029-.11-.101-.143-.137-.146a6.6 6.6 0 0 0-1.142 0ZM11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM9.5 8a1.5 1.5 0 1 0-3.001.001A1.5 1.5 0 0 0 9.5 8Z"></path>
@@ -1335,7 +1334,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;DOCS&quot;,&quot;label&quot;:null}" id="item-c215659e-32af-4020-92ce-cdad712c129b" href="https://docs.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;DOCS&quot;,&quot;label&quot;:null}" id="item-e5eab683-a9e7-49b7-b0c9-4818150c0760" href="https://docs.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book">
     <path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path>
@@ -1353,7 +1352,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;SUPPORT&quot;,&quot;label&quot;:null}" id="item-08a0d0f8-4963-4ef5-8ffe-53aaf75cced3" href="https://support.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;SUPPORT&quot;,&quot;label&quot;:null}" id="item-0de50c02-d73d-48e1-9177-444d257e6c10" href="https://support.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
     <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
@@ -1373,7 +1372,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;LOGOUT&quot;,&quot;label&quot;:null}" id="item-3ab36ce3-90b9-4401-aac7-c4959eeff44c" href="/logout" data-view-component="true" class="ActionListContent">
+    <a data-analytics-event="{&quot;category&quot;:&quot;Global navigation&quot;,&quot;action&quot;:&quot;LOGOUT&quot;,&quot;label&quot;:null}" id="item-ce274409-535f-4798-9262-2173589ebf61" href="/logout" data-view-component="true" class="ActionListContent">
       
         <span data-view-component="true" class="ActionListItem-label">
           Sign out
@@ -1550,10 +1549,10 @@
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
     <div data-view-component="true" class="flash-close">
-  <button id="icon-button-0b8d9f1e-b8c4-413b-9bcf-6fde3078eeb0" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium js-flash-close">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+  <button id="icon-button-e1a5679c-1c10-4449-8e4d-ec83e5642661" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium js-flash-close">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button>  <tool-tip id="tooltip-cad192e8-1b18-4cc9-b395-5fbf54428083" for="icon-button-0b8d9f1e-b8c4-413b-9bcf-6fde3078eeb0" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button>  <tool-tip id="tooltip-ab1a0281-a6b1-47a4-ab1c-75654410ba75" for="icon-button-e1a5679c-1c10-4449-8e4d-ec83e5642661" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 </div>
 
   
@@ -1597,7 +1596,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI3MzUyMjI4IiwidCI6MTY5NTI0MDcxMX0=--04edf1e1bd5b61204f332da3a9f51b418ae193698aca5b106ed038111a45db01" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTI3MzUyMjI4IiwidCI6MTY5NTU2Mjc2N30=--a79fe6c1aeb136d86f00b79a6690483ee1c9d4c077d28afff01a59405749c2bf" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -1771,7 +1770,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-6be74b61-9826-4713-88c3-47281544b7a5" for="command-palette-clear-button" popover="manual" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-382f0aa7-a737-4e78-bb97-21229ca7b512" for="command-palette-clear-button" popover="manual" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -2581,7 +2580,7 @@
   data-alternate="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":true,"fileTree":{"gate-simulator":{"items":[{"name":"app.js","path":"gate-simulator/app.js","contentType":"file"},{"name":"data.json","path":"gate-simulator/data.json","contentType":"file"},{"name":"package-lock.json","path":"gate-simulator/package-lock.json","contentType":"file"},{"name":"package.json","path":"gate-simulator/package.json","contentType":"file"}],"totalCount":4},"":{"items":[{"name":"gate-simulator","path":"gate-simulator","contentType":"directory"},{"name":"pic","path":"pic","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"application.properties","path":"application.properties","contentType":"file"},{"name":"aqa-shop.jar","path":"aqa-shop.jar","contentType":"file"}],"totalCount":6}},"fileTreeProcessingTime":4.964671,"foldersToFetch":[],"reducedMotionEnabled":"system","repo":{"id":223378063,"defaultBranch":"master","name":"qa-diploma","ownerLogin":"netology-code","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2019-11-22T13:15:55.000+03:00","ownerAvatar":"https://avatars.githubusercontent.com/u/25052038?v=4","public":true,"private":false,"isOrgOwned":true},"symbolsExpanded":true,"treeExpanded":true,"refInfo":{"name":"master","listCacheKey":"v0:1584451201.0","canEdit":true,"refType":"branch","currentOid":"f11eaac99eb04b89c1370e294854900ee5d1e1b2"},"path":"gate-simulator/app.js","currentUser":{"id":127352228,"login":"Kanger79","userEmail":"dmitrykanger@yandex.ru"},"blob":{"rawLines":["const fs = require('fs');","const express = require('express');","const uuidv4 = require('uuid/v4');","","const data = JSON.parse(fs.readFileSync('data.json', 'UTF-8'));","console.log(data);","","const server = express();","server.use(express.json());","","server.post(['/payment', '/credit'], (req, res) =\u003e {","  console.log(`Incoming request: ${req.path} ${JSON.stringify(req.body)}`);","  const {body: {number}} = req;","","  const [item] = data.filter(o =\u003e o.number === number);","  if (item === undefined) {","    res.status(400).end();","    return;","  }","","  res.send({","    id: uuidv4(),","    status: item.status,","  });","});","","// get port from environment variable or just use 9999","server.listen(process.env.PORT || 9999);"],"stylingDirectives":[[{"start":0,"end":5,"cssClass":"pl-k"},{"start":6,"end":8,"cssClass":"pl-s1"},{"start":9,"end":10,"cssClass":"pl-c1"},{"start":11,"end":18,"cssClass":"pl-en"},{"start":18,"end":19,"cssClass":"pl-kos"},{"start":19,"end":23,"cssClass":"pl-s"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":24,"end":25,"cssClass":"pl-kos"}],[{"start":0,"end":5,"cssClass":"pl-k"},{"start":6,"end":13,"cssClass":"pl-s1"},{"start":14,"end":15,"cssClass":"pl-c1"},{"start":16,"end":23,"cssClass":"pl-en"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":24,"end":33,"cssClass":"pl-s"},{"start":33,"end":34,"cssClass":"pl-kos"},{"start":34,"end":35,"cssClass":"pl-kos"}],[{"start":0,"end":5,"cssClass":"pl-k"},{"start":6,"end":12,"cssClass":"pl-s1"},{"start":13,"end":14,"cssClass":"pl-c1"},{"start":15,"end":22,"cssClass":"pl-en"},{"start":22,"end":23,"cssClass":"pl-kos"},{"start":23,"end":32,"cssClass":"pl-s"},{"start":32,"end":33,"cssClass":"pl-kos"},{"start":33,"end":34,"cssClass":"pl-kos"}],[],[{"start":0,"end":5,"cssClass":"pl-k"},{"start":6,"end":10,"cssClass":"pl-s1"},{"start":11,"end":12,"cssClass":"pl-c1"},{"start":13,"end":17,"cssClass":"pl-c1"},{"start":17,"end":18,"cssClass":"pl-kos"},{"start":18,"end":23,"cssClass":"pl-en"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":24,"end":26,"cssClass":"pl-s1"},{"start":26,"end":27,"cssClass":"pl-kos"},{"start":27,"end":39,"cssClass":"pl-en"},{"start":39,"end":40,"cssClass":"pl-kos"},{"start":40,"end":51,"cssClass":"pl-s"},{"start":51,"end":52,"cssClass":"pl-kos"},{"start":53,"end":60,"cssClass":"pl-s"},{"start":60,"end":61,"cssClass":"pl-kos"},{"start":61,"end":62,"cssClass":"pl-kos"},{"start":62,"end":63,"cssClass":"pl-kos"}],[{"start":0,"end":7,"cssClass":"pl-smi"},{"start":7,"end":8,"cssClass":"pl-kos"},{"start":8,"end":11,"cssClass":"pl-en"},{"start":11,"end":12,"cssClass":"pl-kos"},{"start":12,"end":16,"cssClass":"pl-s1"},{"start":16,"end":17,"cssClass":"pl-kos"},{"start":17,"end":18,"cssClass":"pl-kos"}],[],[{"start":0,"end":5,"cssClass":"pl-k"},{"start":6,"end":12,"cssClass":"pl-s1"},{"start":13,"end":14,"cssClass":"pl-c1"},{"start":15,"end":22,"cssClass":"pl-s1"},{"start":22,"end":23,"cssClass":"pl-kos"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":24,"end":25,"cssClass":"pl-kos"}],[{"start":0,"end":6,"cssClass":"pl-s1"},{"start":6,"end":7,"cssClass":"pl-kos"},{"start":7,"end":10,"cssClass":"pl-en"},{"start":10,"end":11,"cssClass":"pl-kos"},{"start":11,"end":18,"cssClass":"pl-s1"},{"start":18,"end":19,"cssClass":"pl-kos"},{"start":19,"end":23,"cssClass":"pl-en"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":24,"end":25,"cssClass":"pl-kos"},{"start":25,"end":26,"cssClass":"pl-kos"},{"start":26,"end":27,"cssClass":"pl-kos"}],[],[{"start":0,"end":6,"cssClass":"pl-s1"},{"start":6,"end":7,"cssClass":"pl-kos"},{"start":7,"end":11,"cssClass":"pl-en"},{"start":11,"end":12,"cssClass":"pl-kos"},{"start":12,"end":13,"cssClass":"pl-kos"},{"start":13,"end":23,"cssClass":"pl-s"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":25,"end":34,"cssClass":"pl-s"},{"start":34,"end":35,"cssClass":"pl-kos"},{"start":35,"end":36,"cssClass":"pl-kos"},{"start":37,"end":38,"cssClass":"pl-kos"},{"start":38,"end":41,"cssClass":"pl-s1"},{"start":41,"end":42,"cssClass":"pl-kos"},{"start":43,"end":46,"cssClass":"pl-s1"},{"start":46,"end":47,"cssClass":"pl-kos"},{"start":48,"end":50,"cssClass":"pl-c1"},{"start":51,"end":52,"cssClass":"pl-kos"}],[{"start":2,"end":9,"cssClass":"pl-smi"},{"start":9,"end":10,"cssClass":"pl-kos"},{"start":10,"end":13,"cssClass":"pl-en"},{"start":13,"end":14,"cssClass":"pl-kos"},{"start":14,"end":73,"cssClass":"pl-s"},{"start":33,"end":44,"cssClass":"pl-s1"},{"start":33,"end":35,"cssClass":"pl-kos"},{"start":35,"end":38,"cssClass":"pl-s1"},{"start":38,"end":39,"cssClass":"pl-kos"},{"start":39,"end":43,"cssClass":"pl-c1"},{"start":43,"end":44,"cssClass":"pl-kos"},{"start":45,"end":72,"cssClass":"pl-s1"},{"start":45,"end":47,"cssClass":"pl-kos"},{"start":47,"end":51,"cssClass":"pl-c1"},{"start":51,"end":52,"cssClass":"pl-kos"},{"start":52,"end":61,"cssClass":"pl-en"},{"start":61,"end":62,"cssClass":"pl-kos"},{"start":62,"end":65,"cssClass":"pl-s1"},{"start":65,"end":66,"cssClass":"pl-kos"},{"start":66,"end":70,"cssClass":"pl-c1"},{"start":70,"end":71,"cssClass":"pl-kos"},{"start":71,"end":72,"cssClass":"pl-kos"},{"start":73,"end":74,"cssClass":"pl-kos"},{"start":74,"end":75,"cssClass":"pl-kos"}],[{"start":2,"end":7,"cssClass":"pl-k"},{"start":8,"end":9,"cssClass":"pl-kos"},{"start":9,"end":13,"cssClass":"pl-c1"},{"start":15,"end":16,"cssClass":"pl-kos"},{"start":22,"end":23,"cssClass":"pl-kos"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":25,"end":26,"cssClass":"pl-c1"},{"start":27,"end":30,"cssClass":"pl-s1"},{"start":30,"end":31,"cssClass":"pl-kos"}],[],[{"start":2,"end":7,"cssClass":"pl-k"},{"start":8,"end":9,"cssClass":"pl-kos"},{"start":9,"end":13,"cssClass":"pl-s1"},{"start":13,"end":14,"cssClass":"pl-kos"},{"start":15,"end":16,"cssClass":"pl-c1"},{"start":17,"end":21,"cssClass":"pl-s1"},{"start":21,"end":22,"cssClass":"pl-kos"},{"start":22,"end":28,"cssClass":"pl-en"},{"start":28,"end":29,"cssClass":"pl-kos"},{"start":29,"end":30,"cssClass":"pl-s1"},{"start":31,"end":33,"cssClass":"pl-c1"},{"start":34,"end":35,"cssClass":"pl-s1"},{"start":35,"end":36,"cssClass":"pl-kos"},{"start":36,"end":42,"cssClass":"pl-c1"},{"start":43,"end":46,"cssClass":"pl-c1"},{"start":47,"end":53,"cssClass":"pl-s1"},{"start":53,"end":54,"cssClass":"pl-kos"},{"start":54,"end":55,"cssClass":"pl-kos"}],[{"start":2,"end":4,"cssClass":"pl-k"},{"start":5,"end":6,"cssClass":"pl-kos"},{"start":6,"end":10,"cssClass":"pl-s1"},{"start":11,"end":14,"cssClass":"pl-c1"},{"start":15,"end":24,"cssClass":"pl-c1"},{"start":24,"end":25,"cssClass":"pl-kos"},{"start":26,"end":27,"cssClass":"pl-kos"}],[{"start":4,"end":7,"cssClass":"pl-s1"},{"start":7,"end":8,"cssClass":"pl-kos"},{"start":8,"end":14,"cssClass":"pl-en"},{"start":14,"end":15,"cssClass":"pl-kos"},{"start":15,"end":18,"cssClass":"pl-c1"},{"start":18,"end":19,"cssClass":"pl-kos"},{"start":19,"end":20,"cssClass":"pl-kos"},{"start":20,"end":23,"cssClass":"pl-en"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":24,"end":25,"cssClass":"pl-kos"},{"start":25,"end":26,"cssClass":"pl-kos"}],[{"start":4,"end":10,"cssClass":"pl-k"},{"start":10,"end":11,"cssClass":"pl-kos"}],[{"start":2,"end":3,"cssClass":"pl-kos"}],[],[{"start":2,"end":5,"cssClass":"pl-s1"},{"start":5,"end":6,"cssClass":"pl-kos"},{"start":6,"end":10,"cssClass":"pl-en"},{"start":10,"end":11,"cssClass":"pl-kos"},{"start":11,"end":12,"cssClass":"pl-kos"}],[{"start":4,"end":6,"cssClass":"pl-c1"},{"start":8,"end":14,"cssClass":"pl-s1"},{"start":14,"end":15,"cssClass":"pl-kos"},{"start":15,"end":16,"cssClass":"pl-kos"},{"start":16,"end":17,"cssClass":"pl-kos"}],[{"start":4,"end":10,"cssClass":"pl-c1"},{"start":12,"end":16,"cssClass":"pl-s1"},{"start":16,"end":17,"cssClass":"pl-kos"},{"start":17,"end":23,"cssClass":"pl-c1"},{"start":23,"end":24,"cssClass":"pl-kos"}],[{"start":2,"end":3,"cssClass":"pl-kos"},{"start":3,"end":4,"cssClass":"pl-kos"},{"start":4,"end":5,"cssClass":"pl-kos"}],[{"start":0,"end":1,"cssClass":"pl-kos"},{"start":1,"end":2,"cssClass":"pl-kos"},{"start":2,"end":3,"cssClass":"pl-kos"}],[],[{"start":0,"end":54,"cssClass":"pl-c"}],[{"start":0,"end":6,"cssClass":"pl-s1"},{"start":6,"end":7,"cssClass":"pl-kos"},{"start":7,"end":13,"cssClass":"pl-en"},{"start":13,"end":14,"cssClass":"pl-kos"},{"start":14,"end":21,"cssClass":"pl-s1"},{"start":21,"end":22,"cssClass":"pl-kos"},{"start":22,"end":25,"cssClass":"pl-c1"},{"start":25,"end":26,"cssClass":"pl-kos"},{"start":26,"end":30,"cssClass":"pl-c1"},{"start":31,"end":33,"cssClass":"pl-c1"},{"start":34,"end":38,"cssClass":"pl-c1"},{"start":38,"end":39,"cssClass":"pl-kos"},{"start":39,"end":40,"cssClass":"pl-kos"}]],"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/netology-code/qa-diploma/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false,"repoAlertsPath":"/netology-code/qa-diploma/security/dependabot","repoSecurityAndAnalysisPath":"/netology-code/qa-diploma/settings/security_analysis","repoOwnerIsOrg":true,"currentUserCanAdminRepo":false},"displayName":"app.js","displayUrl":"https://github.com/netology-code/qa-diploma/blob/master/gate-simulator/app.js?raw=true","headerInfo":{"blobSize":"690 Bytes","deleteInfo":{"deleteTooltip":"Fork this repository and delete the file"},"editInfo":{"editTooltip":"Fork this repository and edit the file"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"b621827","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fnetology-code%2Fqa-diploma%2Fblob%2Fmaster%2Fgate-simulator%2Fapp.js","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"28","truncatedSloc":"22"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":"JavaScript","languageID":183,"large":false,"loggedIn":true,"newDiscussionPath":"/netology-code/qa-diploma/discussions/new","newIssuePath":"/netology-code/qa-diploma/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/netology-code/qa-diploma/blob/master/gate-simulator/app.js","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/netology-code/qa-diploma/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"netology-code","repoName":"qa-diploma","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":false,"symbols":[]}},"copilotInfo":null,"csrf_tokens":{"/netology-code/qa-diploma/branches":{"post":"gKOvM2H1JKGkhPf0lS5kALxsZl5Kr8fu0mdR9LiSdzXpg6n2NxDF7E4qcmWVfa5KrHETD9GlKV1m1MtDxzkdSQ"},"/repos/preferences":{"post":"5ZaegsmjNFLyqAM-sG-R6Im0tSr7o8zUhmcv8VHDFHo9RJMEG_jszh7QLqe88vDaK9xdQd1Cmzge3ucKQAPONA"}}},"title":"qa-diploma/gate-simulator/app.js at master · netology-code/qa-diploma","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-83d4418b406d.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-2dd6b5095052.js","githubDevUrl":"https://github.dev/","enabled_features":{"code_nav_ui_events":false,"copilot_conversational_ux":false,"copilot_conversational_ux_symbols":false,"copilot_popover_file_editor_header":true,"copilot_smell_icebreaker_ux":false}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":true,"fileTree":{"gate-simulator":{"items":[{"name":"app.js","path":"gate-simulator/app.js","contentType":"file"},{"name":"data.json","path":"gate-simulator/data.json","contentType":"file"},{"name":"package-lock.json","path":"gate-simulator/package-lock.json","contentType":"file"},{"name":"package.json","path":"gate-simulator/package.json","contentType":"file"}],"totalCount":4},"":{"items":[{"name":"gate-simulator","path":"gate-simulator","contentType":"directory"},{"name":"pic","path":"pic","contentType":"directory"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"application.properties","path":"application.properties","contentType":"file"},{"name":"aqa-shop.jar","path":"aqa-shop.jar","contentType":"file"}],"totalCount":6}},"fileTreeProcessingTime":4.604773000000001,"foldersToFetch":[],"reducedMotionEnabled":"system","repo":{"id":223378063,"defaultBranch":"master","name":"qa-diploma","ownerLogin":"netology-code","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2019-11-22T13:15:55.000+03:00","ownerAvatar":"https://avatars.githubusercontent.com/u/25052038?v=4","public":true,"private":false,"isOrgOwned":true},"symbolsExpanded":true,"treeExpanded":true,"refInfo":{"name":"master","listCacheKey":"v0:1584451201.0","canEdit":true,"refType":"branch","currentOid":"f11eaac99eb04b89c1370e294854900ee5d1e1b2"},"path":"gate-simulator/app.js","currentUser":{"id":127352228,"login":"Kanger79","userEmail":"dmitrykanger@yandex.ru"},"blob":{"rawLines":["const fs = require('fs');","const express = require('express');","const uuidv4 = require('uuid/v4');","","const data = JSON.parse(fs.readFileSync('data.json', 'UTF-8'));","console.log(data);","","const server = express();","server.use(express.json());","","server.post(['/payment', '/credit'], (req, res) =\u003e {","  console.log(`Incoming request: ${req.path} ${JSON.stringify(req.body)}`);","  const {body: {number}} = req;","","  const [item] = data.filter(o =\u003e o.number === number);","  if (item === undefined) {","    res.status(400).end();","    return;","  }","","  res.send({","    id: uuidv4(),","    status: item.status,","  });","});","","// get port from environment variable or just use 9999","server.listen(process.env.PORT || 9999);"],"stylingDirectives":[[{"start":0,"end":5,"cssClass":"pl-k"},{"start":6,"end":8,"cssClass":"pl-s1"},{"start":9,"end":10,"cssClass":"pl-c1"},{"start":11,"end":18,"cssClass":"pl-en"},{"start":18,"end":19,"cssClass":"pl-kos"},{"start":19,"end":23,"cssClass":"pl-s"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":24,"end":25,"cssClass":"pl-kos"}],[{"start":0,"end":5,"cssClass":"pl-k"},{"start":6,"end":13,"cssClass":"pl-s1"},{"start":14,"end":15,"cssClass":"pl-c1"},{"start":16,"end":23,"cssClass":"pl-en"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":24,"end":33,"cssClass":"pl-s"},{"start":33,"end":34,"cssClass":"pl-kos"},{"start":34,"end":35,"cssClass":"pl-kos"}],[{"start":0,"end":5,"cssClass":"pl-k"},{"start":6,"end":12,"cssClass":"pl-s1"},{"start":13,"end":14,"cssClass":"pl-c1"},{"start":15,"end":22,"cssClass":"pl-en"},{"start":22,"end":23,"cssClass":"pl-kos"},{"start":23,"end":32,"cssClass":"pl-s"},{"start":32,"end":33,"cssClass":"pl-kos"},{"start":33,"end":34,"cssClass":"pl-kos"}],[],[{"start":0,"end":5,"cssClass":"pl-k"},{"start":6,"end":10,"cssClass":"pl-s1"},{"start":11,"end":12,"cssClass":"pl-c1"},{"start":13,"end":17,"cssClass":"pl-c1"},{"start":17,"end":18,"cssClass":"pl-kos"},{"start":18,"end":23,"cssClass":"pl-en"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":24,"end":26,"cssClass":"pl-s1"},{"start":26,"end":27,"cssClass":"pl-kos"},{"start":27,"end":39,"cssClass":"pl-en"},{"start":39,"end":40,"cssClass":"pl-kos"},{"start":40,"end":51,"cssClass":"pl-s"},{"start":51,"end":52,"cssClass":"pl-kos"},{"start":53,"end":60,"cssClass":"pl-s"},{"start":60,"end":61,"cssClass":"pl-kos"},{"start":61,"end":62,"cssClass":"pl-kos"},{"start":62,"end":63,"cssClass":"pl-kos"}],[{"start":0,"end":7,"cssClass":"pl-smi"},{"start":7,"end":8,"cssClass":"pl-kos"},{"start":8,"end":11,"cssClass":"pl-en"},{"start":11,"end":12,"cssClass":"pl-kos"},{"start":12,"end":16,"cssClass":"pl-s1"},{"start":16,"end":17,"cssClass":"pl-kos"},{"start":17,"end":18,"cssClass":"pl-kos"}],[],[{"start":0,"end":5,"cssClass":"pl-k"},{"start":6,"end":12,"cssClass":"pl-s1"},{"start":13,"end":14,"cssClass":"pl-c1"},{"start":15,"end":22,"cssClass":"pl-s1"},{"start":22,"end":23,"cssClass":"pl-kos"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":24,"end":25,"cssClass":"pl-kos"}],[{"start":0,"end":6,"cssClass":"pl-s1"},{"start":6,"end":7,"cssClass":"pl-kos"},{"start":7,"end":10,"cssClass":"pl-en"},{"start":10,"end":11,"cssClass":"pl-kos"},{"start":11,"end":18,"cssClass":"pl-s1"},{"start":18,"end":19,"cssClass":"pl-kos"},{"start":19,"end":23,"cssClass":"pl-en"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":24,"end":25,"cssClass":"pl-kos"},{"start":25,"end":26,"cssClass":"pl-kos"},{"start":26,"end":27,"cssClass":"pl-kos"}],[],[{"start":0,"end":6,"cssClass":"pl-s1"},{"start":6,"end":7,"cssClass":"pl-kos"},{"start":7,"end":11,"cssClass":"pl-en"},{"start":11,"end":12,"cssClass":"pl-kos"},{"start":12,"end":13,"cssClass":"pl-kos"},{"start":13,"end":23,"cssClass":"pl-s"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":25,"end":34,"cssClass":"pl-s"},{"start":34,"end":35,"cssClass":"pl-kos"},{"start":35,"end":36,"cssClass":"pl-kos"},{"start":37,"end":38,"cssClass":"pl-kos"},{"start":38,"end":41,"cssClass":"pl-s1"},{"start":41,"end":42,"cssClass":"pl-kos"},{"start":43,"end":46,"cssClass":"pl-s1"},{"start":46,"end":47,"cssClass":"pl-kos"},{"start":48,"end":50,"cssClass":"pl-c1"},{"start":51,"end":52,"cssClass":"pl-kos"}],[{"start":2,"end":9,"cssClass":"pl-smi"},{"start":9,"end":10,"cssClass":"pl-kos"},{"start":10,"end":13,"cssClass":"pl-en"},{"start":13,"end":14,"cssClass":"pl-kos"},{"start":14,"end":73,"cssClass":"pl-s"},{"start":33,"end":44,"cssClass":"pl-s1"},{"start":33,"end":35,"cssClass":"pl-kos"},{"start":35,"end":38,"cssClass":"pl-s1"},{"start":38,"end":39,"cssClass":"pl-kos"},{"start":39,"end":43,"cssClass":"pl-c1"},{"start":43,"end":44,"cssClass":"pl-kos"},{"start":45,"end":72,"cssClass":"pl-s1"},{"start":45,"end":47,"cssClass":"pl-kos"},{"start":47,"end":51,"cssClass":"pl-c1"},{"start":51,"end":52,"cssClass":"pl-kos"},{"start":52,"end":61,"cssClass":"pl-en"},{"start":61,"end":62,"cssClass":"pl-kos"},{"start":62,"end":65,"cssClass":"pl-s1"},{"start":65,"end":66,"cssClass":"pl-kos"},{"start":66,"end":70,"cssClass":"pl-c1"},{"start":70,"end":71,"cssClass":"pl-kos"},{"start":71,"end":72,"cssClass":"pl-kos"},{"start":73,"end":74,"cssClass":"pl-kos"},{"start":74,"end":75,"cssClass":"pl-kos"}],[{"start":2,"end":7,"cssClass":"pl-k"},{"start":8,"end":9,"cssClass":"pl-kos"},{"start":9,"end":13,"cssClass":"pl-c1"},{"start":15,"end":16,"cssClass":"pl-kos"},{"start":22,"end":23,"cssClass":"pl-kos"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":25,"end":26,"cssClass":"pl-c1"},{"start":27,"end":30,"cssClass":"pl-s1"},{"start":30,"end":31,"cssClass":"pl-kos"}],[],[{"start":2,"end":7,"cssClass":"pl-k"},{"start":8,"end":9,"cssClass":"pl-kos"},{"start":9,"end":13,"cssClass":"pl-s1"},{"start":13,"end":14,"cssClass":"pl-kos"},{"start":15,"end":16,"cssClass":"pl-c1"},{"start":17,"end":21,"cssClass":"pl-s1"},{"start":21,"end":22,"cssClass":"pl-kos"},{"start":22,"end":28,"cssClass":"pl-en"},{"start":28,"end":29,"cssClass":"pl-kos"},{"start":29,"end":30,"cssClass":"pl-s1"},{"start":31,"end":33,"cssClass":"pl-c1"},{"start":34,"end":35,"cssClass":"pl-s1"},{"start":35,"end":36,"cssClass":"pl-kos"},{"start":36,"end":42,"cssClass":"pl-c1"},{"start":43,"end":46,"cssClass":"pl-c1"},{"start":47,"end":53,"cssClass":"pl-s1"},{"start":53,"end":54,"cssClass":"pl-kos"},{"start":54,"end":55,"cssClass":"pl-kos"}],[{"start":2,"end":4,"cssClass":"pl-k"},{"start":5,"end":6,"cssClass":"pl-kos"},{"start":6,"end":10,"cssClass":"pl-s1"},{"start":11,"end":14,"cssClass":"pl-c1"},{"start":15,"end":24,"cssClass":"pl-c1"},{"start":24,"end":25,"cssClass":"pl-kos"},{"start":26,"end":27,"cssClass":"pl-kos"}],[{"start":4,"end":7,"cssClass":"pl-s1"},{"start":7,"end":8,"cssClass":"pl-kos"},{"start":8,"end":14,"cssClass":"pl-en"},{"start":14,"end":15,"cssClass":"pl-kos"},{"start":15,"end":18,"cssClass":"pl-c1"},{"start":18,"end":19,"cssClass":"pl-kos"},{"start":19,"end":20,"cssClass":"pl-kos"},{"start":20,"end":23,"cssClass":"pl-en"},{"start":23,"end":24,"cssClass":"pl-kos"},{"start":24,"end":25,"cssClass":"pl-kos"},{"start":25,"end":26,"cssClass":"pl-kos"}],[{"start":4,"end":10,"cssClass":"pl-k"},{"start":10,"end":11,"cssClass":"pl-kos"}],[{"start":2,"end":3,"cssClass":"pl-kos"}],[],[{"start":2,"end":5,"cssClass":"pl-s1"},{"start":5,"end":6,"cssClass":"pl-kos"},{"start":6,"end":10,"cssClass":"pl-en"},{"start":10,"end":11,"cssClass":"pl-kos"},{"start":11,"end":12,"cssClass":"pl-kos"}],[{"start":4,"end":6,"cssClass":"pl-c1"},{"start":8,"end":14,"cssClass":"pl-s1"},{"start":14,"end":15,"cssClass":"pl-kos"},{"start":15,"end":16,"cssClass":"pl-kos"},{"start":16,"end":17,"cssClass":"pl-kos"}],[{"start":4,"end":10,"cssClass":"pl-c1"},{"start":12,"end":16,"cssClass":"pl-s1"},{"start":16,"end":17,"cssClass":"pl-kos"},{"start":17,"end":23,"cssClass":"pl-c1"},{"start":23,"end":24,"cssClass":"pl-kos"}],[{"start":2,"end":3,"cssClass":"pl-kos"},{"start":3,"end":4,"cssClass":"pl-kos"},{"start":4,"end":5,"cssClass":"pl-kos"}],[{"start":0,"end":1,"cssClass":"pl-kos"},{"start":1,"end":2,"cssClass":"pl-kos"},{"start":2,"end":3,"cssClass":"pl-kos"}],[],[{"start":0,"end":54,"cssClass":"pl-c"}],[{"start":0,"end":6,"cssClass":"pl-s1"},{"start":6,"end":7,"cssClass":"pl-kos"},{"start":7,"end":13,"cssClass":"pl-en"},{"start":13,"end":14,"cssClass":"pl-kos"},{"start":14,"end":21,"cssClass":"pl-s1"},{"start":21,"end":22,"cssClass":"pl-kos"},{"start":22,"end":25,"cssClass":"pl-c1"},{"start":25,"end":26,"cssClass":"pl-kos"},{"start":26,"end":30,"cssClass":"pl-c1"},{"start":31,"end":33,"cssClass":"pl-c1"},{"start":34,"end":38,"cssClass":"pl-c1"},{"start":38,"end":39,"cssClass":"pl-kos"},{"start":39,"end":40,"cssClass":"pl-kos"}]],"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/netology-code/qa-diploma/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false,"repoAlertsPath":"/netology-code/qa-diploma/security/dependabot","repoSecurityAndAnalysisPath":"/netology-code/qa-diploma/settings/security_analysis","repoOwnerIsOrg":true,"currentUserCanAdminRepo":false},"displayName":"app.js","displayUrl":"https://github.com/netology-code/qa-diploma/blob/master/gate-simulator/app.js?raw=true","headerInfo":{"blobSize":"690 Bytes","deleteInfo":{"deleteTooltip":"Fork this repository and delete the file"},"editInfo":{"editTooltip":"Fork this repository and edit the file"},"ghDesktopPath":"https://desktop.github.com","gitLfsPath":null,"onBranch":true,"shortPath":"b621827","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fnetology-code%2Fqa-diploma%2Fblob%2Fmaster%2Fgate-simulator%2Fapp.js","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"28","truncatedSloc":"22"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":"JavaScript","languageID":183,"large":false,"loggedIn":true,"newDiscussionPath":"/netology-code/qa-diploma/discussions/new","newIssuePath":"/netology-code/qa-diploma/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/netology-code/qa-diploma/blob/master/gate-simulator/app.js","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/netology-code/qa-diploma/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"shortPath":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"netology-code","repoName":"qa-diploma","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":false,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":false,"symbols":[]}},"copilotInfo":null,"csrf_tokens":{"/netology-code/qa-diploma/branches":{"post":"Qx3REqaAolmjU53TJAV71L5L5rXE_QN8fmnIuOjxURUqPdfX8GVDFEn9GEIkVrGerlaT5F_37c_K2lIPl1o7aQ"},"/repos/preferences":{"post":"UDyNB93UoKN43E7DmtgWI7zn3T45Ig5Aydw3KcluZESI7oCBD494P5SkY1qWRXcRHo81VR_DWaxRZf_S2K6-Cg"}}},"title":"qa-diploma/gate-simulator/app.js at master · netology-code/qa-diploma","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-83d4418b406d.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-2dd6b5095052.js","githubDevUrl":"https://github.dev/","enabled_features":{"code_nav_ui_events":false,"copilot_conversational_ux":false,"copilot_conversational_ux_symbols":false,"copilot_conversational_ux_direct_connection":false,"copilot_popover_file_editor_header":true,"copilot_smell_icebreaker_ux":false}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
