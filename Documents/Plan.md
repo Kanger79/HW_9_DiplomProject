@@ -15,11 +15,11 @@
 <table>
 <thead>
 <tr>
-<th>Поле</th>
-<th>Тип данных</th>
-<th>Количество <br>(валидная длина), <br> символов</th>
-<th>Валидный диапазон</th>
-<th>Примечание</th>  
+<th>Поле <br> :triangular_flag_on_post:</th>
+<th>Тип данных <br> :large_blue_circle: :orange_circle: :green_circle: </th>
+<th>Количество <br>(валидная длина), <br> символов <br> :green_circle: :green_circle: :green_circle:</th>
+<th>Валидный диапазон <br> :orange_circle: :green_circle: :orange_circle:</th>
+<th>Примечание <br> :interrobang:</th>  
 </tr>
 </thead>
 
