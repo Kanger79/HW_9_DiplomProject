@@ -94,7 +94,7 @@
 
       </details>
 
-       &ensp; &ensp; 2.2.2. `java "-Dspring.datasource.url=jdbc:postgresql://localhost:5432/app" -jar artifacts/aqa-shop.jar` - для подключения к базе данных postgre <br>
+       &ensp; &ensp; 2.2.2. `java "-Dspring.datasource.url=jdbc:postgresql://localhost:5432/postgres" -jar artifacts/aqa-shop.jar` - для подключения к базе данных postgre <br>
   3. Откройте в браузере страницу **http://localhost:8080** <br>
 
      <details>
