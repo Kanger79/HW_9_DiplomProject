@@ -61,4 +61,27 @@
 
   1. Запустите **Docker Desktop** <br>
   2. Запустите **Intellij IDEA** <br>
-     2.1. В **Intellij IDIA**, на вкладке терминала, запустите **Docker** командой `` <br> 
+     2.1. В **Intellij IDEA**, на вкладке терминала, запустите **Docker** командой `docker-compose up --build` <br>
+           (*в результате, в приложении ***Docker Desktop*** отразится проект с запущенными контейнерами*) <br>
+
+      <details>
+         <summary>скриншоты</summary>
+         <br> 
+        
+     ![Run_Docker](https://github.com/Kanger79/HW_9_DiplomProject/assets/127352228/e9da1926-cd79-4893-934c-21212054c544)
+
+      Запуск **docker-compose**
+     <br>
+
+     ![Docker-Desktop_start_+](https://github.com/Kanger79/HW_9_DiplomProject/assets/127352228/70c49ca3-e6c9-4442-9096-844c44d2e151)
+
+
+      **Docker Desktop** с запущенными контейнерами
+
+      </details>
+
+
+     2.2. Добавьте новую вкладку терминального окна и запустите в ней приложение "Путешествие дня" командой: <br>
+       &ensp; &ensp; 2.2.1. `java "-Dspring.datasource.url=jdbc:mysql://localhost:3306/app" -jar artifacts/aqa-shop.jar` - для подключения к базе данных mySQL, <br>
+       &ensp; &ensp; 2.2.2. `java "-Dspring.datasource.url=jdbc:postgresql://localhost:5432/app" -jar artifacts/aqa-shop.jar` - для подключения к базе данных postgre <br>
+  2. Откройте в браузере страницу **http://localhost:8080**
