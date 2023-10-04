@@ -80,8 +80,33 @@
 
       </details>
 
-
      2.2. Добавьте новую вкладку терминального окна и запустите в ней приложение "Путешествие дня" командой: <br>
        &ensp; &ensp; 2.2.1. `java "-Dspring.datasource.url=jdbc:mysql://localhost:3306/app" -jar artifacts/aqa-shop.jar` - для подключения к базе данных mySQL, <br>
+
+        <details>
+         <summary>скриншот</summary>
+         <br> 
+        
+     ![Start_Java-pril_mySQL_02](https://github.com/Kanger79/HW_9_DiplomProject/assets/127352228/02e29068-2133-462e-9418-c404528cbd7e)
+
+      Запуск java-приложения **Путешествие дня**
+     <br>
+
+      </details>
+
        &ensp; &ensp; 2.2.2. `java "-Dspring.datasource.url=jdbc:postgresql://localhost:5432/app" -jar artifacts/aqa-shop.jar` - для подключения к базе данных postgre <br>
-  2. Откройте в браузере страницу **http://localhost:8080**
+  3. Откройте в браузере страницу **http://localhost:8080** <br>
+
+     <details>
+         <summary>скриншот</summary>
+         <br> 
+        
+        ![Dashboard_00](https://github.com/Kanger79/HW_9_DiplomProject/assets/127352228/884de0d2-5998-4bd3-ae41-18a55b23ff71)
+
+        Страница приложения **Путешествие дня**
+     
+       <br>
+
+       </details>
+
+
