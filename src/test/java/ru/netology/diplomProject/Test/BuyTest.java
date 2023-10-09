@@ -57,7 +57,7 @@ public class BuyTest {
 
     @Test
     @DisplayName("03_Не заполнен номер карты")
-    public void EmptyCardNumber() {
+    public void shouldErrorEmptyCardNumber() {
         buy.setCardMonth(DataHelper.getMonthNumber());
         buy.setCardYear(DataHelper.getValidYear());
         buy.setCardholder(DataHelper.getNameCardholder());
@@ -70,7 +70,7 @@ public class BuyTest {
 
     @Test
     @DisplayName("04_Карта одобрена (статус APPROVED), не заполнен месяц")
-    public void EmptyMonth() {
+    public void shouldErrorEmptyMonth() {
         buy.setCardNumber(DataHelper.getApprovedCard());
         buy.setCardYear(DataHelper.getValidYear());
         buy.setCardholder(DataHelper.getNameCardholder());
@@ -83,7 +83,7 @@ public class BuyTest {
 
     @Test
     @DisplayName("05_Карта одобрена (статус APPROVED), не заполнен год")
-    public void EmptyYear() {
+    public void shouldErrorEmptyYear() {
         buy.setCardNumber(DataHelper.getApprovedCard());
         buy.setCardMonth(DataHelper.getMonthNumber());
         buy.setCardholder(DataHelper.getNameCardholder());
@@ -96,7 +96,7 @@ public class BuyTest {
 
     @Test
     @DisplayName("06_Карта одобрена (статус APPROVED), не заполнен Владелец")
-    public void EmptyCardHolder() {
+    public void shouldErrorEmptyCardHolder() {
         buy.setCardNumber(DataHelper.getApprovedCard());
         buy.setCardMonth(DataHelper.getMonthNumber());
         buy.setCardYear(DataHelper.getValidYear());
@@ -109,7 +109,7 @@ public class BuyTest {
 
     @Test
     @DisplayName("07_Карта одобрена (статус APPROVED), не заполнен код CVC")
-    public void EmptyCvc() {
+    public void shouldErrorEmptyCvc() {
         buy.setCardNumber(DataHelper.getApprovedCard());
         buy.setCardMonth(DataHelper.getMonthNumber());
         buy.setCardYear(DataHelper.getValidYear());
@@ -122,7 +122,7 @@ public class BuyTest {
 
     @Test
     @DisplayName("08_Не корректный номер карты")
-    public void incorrectCardNumber() {
+    public void shouldErrorIncorrectCardNumber() {
         buy.setCardNumber(DataHelper.getCardNumber15Digits());
         buy.setCardMonth(DataHelper.getMonthNumber());
         buy.setCardYear(DataHelper.getValidYear());
@@ -136,7 +136,7 @@ public class BuyTest {
 
     @Test
     @DisplayName("09_Карта одобрена (статус APPROVED), срок карты истёк")
-    public void CardExpired() {
+    public void shouldErrorCardExpired() {
         buy.setCardNumber(DataHelper.getApprovedCard());
         buy.setCardMonth(DataHelper.getMonthNumberLessThanThisMonth());
         buy.setCardYear(DataHelper.getCurrentYear());
@@ -151,9 +151,9 @@ public class BuyTest {
 
     @Test
     @DisplayName("10_Карта одобрена (статус APPROVED), не валидный месяц")
-    public void MonthInvalid() {
+    public void shouldErrorMonthInvalid() {
         buy.setCardNumber(DataHelper.getApprovedCard());
-        buy.setCardMonth(DataHelper.getMonthNumberMoreThan12());
+        buy.setCardMonth(DataHelper.getNumberFrom13To99());
         buy.setCardYear(DataHelper.getCurrentYear());
         buy.setCardholder(DataHelper.getNameCardholder());
         buy.setCardCvv(DataHelper.get3Digits());
@@ -166,7 +166,7 @@ public class BuyTest {
 
     @Test
     @DisplayName("11_Карта одобрена (статус APPROVED), некорректный месяц")
-    public void MonthIncorrect() {
+    public void shouldErrorMonthIncorrect() {
         buy.setCardNumber(DataHelper.getApprovedCard());
         buy.setCardMonth(DataHelper.get1Digit());
         buy.setCardYear(DataHelper.getValidYear());
@@ -180,7 +180,7 @@ public class BuyTest {
 
     @Test
     @DisplayName("12_Карта одобрена (статус APPROVED), некорректный год")
-    public void YearIncorrect() {
+    public void shouldErrorYearIncorrect() {
         buy.setCardNumber(DataHelper.getApprovedCard());
         buy.setCardMonth(DataHelper.getMonthNumber());
         buy.setCardYear(DataHelper.get1Digit());
@@ -194,7 +194,7 @@ public class BuyTest {
 
     @Test
     @DisplayName("13_Карта одобрена (статус APPROVED), превышен срок карты")
-    public void deadlineExceeded() {
+    public void shouldErrorDeadlineExceeded() {
         buy.setCardNumber(DataHelper.getApprovedCard());
         buy.setCardMonth(DataHelper.getMonthNumber());
         buy.setCardYear(DataHelper.getYearsAfterEndOfExpiration());
@@ -209,7 +209,7 @@ public class BuyTest {
 
     @Test
     @DisplayName("14_Карта одобрена (статус APPROVED), некорректный Владелец")
-    public void incorrectCardHolder() {
+    public void shouldErrorIncorrectCardHolder() {
         buy.setCardNumber(DataHelper.getApprovedCard());
         buy.setCardMonth(DataHelper.getMonthNumber());
         buy.setCardYear(DataHelper.getValidYear());
@@ -223,7 +223,7 @@ public class BuyTest {
 
     @Test
     @DisplayName("15_Карта одобрена (статус APPROVED), короткое имя Владельца")
-    public void shotNameCardHolder() {
+    public void shouldErrorShotNameCardHolder() {
         buy.setCardNumber(DataHelper.getApprovedCard());
         buy.setCardMonth(DataHelper.getMonthNumber());
         buy.setCardYear(DataHelper.getValidYear());
@@ -237,7 +237,7 @@ public class BuyTest {
 
     @Test
     @DisplayName("16_Карта одобрена (статус APPROVED), длинное имя Владельца")
-    public void longNameCardHolder() {
+    public void shouldErrorLongNameCardHolder() {
         buy.setCardNumber(DataHelper.getApprovedCard());
         buy.setCardMonth(DataHelper.getMonthNumber());
         buy.setCardYear(DataHelper.getValidYear());
@@ -251,7 +251,7 @@ public class BuyTest {
 
     @Test
     @DisplayName("17_Карта одобрена (статус APPROVED), некорректный код CVC")
-    public void IncorrectCvc() {
+    public void shouldErrorIncorrectCvc() {
         buy.setCardNumber(DataHelper.getApprovedCard());
         buy.setCardMonth(DataHelper.getMonthNumber());
         buy.setCardYear(DataHelper.getValidYear());

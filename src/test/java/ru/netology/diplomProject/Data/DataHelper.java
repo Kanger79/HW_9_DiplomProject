@@ -7,6 +7,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Locale;
 import java.util.Random;
+import java.util.concurrent.ThreadLocalRandom;
 
 public class DataHelper {
 
@@ -53,10 +54,9 @@ public class DataHelper {
         return currentData.format(DateTimeFormatter.ofPattern("MM"));
     }
 
-    public static String getMonthNumberMoreThan12() {
-        int currentMonth = Integer.parseInt(getMonthNumber());
-        int moreMonth = currentMonth + 12;
-        return String.format("%02d", moreMonth % 100);
+    public static String getNumberFrom13To99() {
+        int randomNumber = ThreadLocalRandom.current().nextInt(13, 100);
+        return String.valueOf(randomNumber);
     }
 
     public static String getCurrentYear() {
@@ -91,8 +91,8 @@ public class DataHelper {
     }
 
     public static String transliterate(String text) {
-        String[] rus = {"А", "Б", "В", "Г", "Д", "Е", "Ё", "Ж", "З", "И", "Й", "К", "Л", "М", "Н", "О", "П", "Р", "С", "Т", "У", "Ф", "Х", "Ц", "Ч", "Ш", "Щ", "Ъ", "Ы", "Ь", "Э", "Ю", "Я","а", "б", "в", "г", "д", "е", "ё", "ж", "з", "и", "й", "к", "л", "м", "н", "о", "п", "р", "с", "т", "у", "ф", "х", "ц", "ч", "ш", "щ", "ъ", "ы", "ь", "э", "ю", "я"};
-        String[] eng = {"A", "B", "V", "G", "D", "E", "Yo", "Zh", "Z", "I", "Y", "K", "L", "M", "N", "O", "P", "R", "S", "T", "U", "F", "H", "Ts", "Ch", "Sh", "Sht", "'", "I", "", "E", "Yu", "Ya","a", "b", "v", "g", "d", "e", "yo", "zh", "z", "i", "y", "k", "l", "m", "n", "o", "p", "r", "s", "t", "u", "f", "h", "ts", "ch", "sh", "sht", "’", "i", "", "e", "yu", "ya"};
+        String[] rus = {"А", "Б", "В", "Г", "Д", "Е", "Ё", "Ж", "З", "И", "Й", "К", "Л", "М", "Н", "О", "П", "Р", "С", "Т", "У", "Ф", "Х", "Ц", "Ч", "Ш", "Щ", "Ъ", "Ы", "Ь", "Э", "Ю", "Я", "а", "б", "в", "г", "д", "е", "ё", "ж", "з", "и", "й", "к", "л", "м", "н", "о", "п", "р", "с", "т", "у", "ф", "х", "ц", "ч", "ш", "щ", "ъ", "ы", "ь", "э", "ю", "я"};
+        String[] eng = {"A", "B", "V", "G", "D", "E", "Yo", "Zh", "Z", "I", "Y", "K", "L", "M", "N", "O", "P", "R", "S", "T", "U", "F", "H", "Ts", "Ch", "Sh", "Sht", "'", "I", "", "E", "Yu", "Ya", "a", "b", "v", "g", "d", "e", "yo", "zh", "z", "i", "y", "k", "l", "m", "n", "o", "p", "r", "s", "t", "u", "f", "h", "ts", "ch", "sh", "sht", "’", "i", "", "e", "yu", "ya"};
 
         text = StringUtils.replaceEach(text, rus, eng);
 
@@ -100,7 +100,7 @@ public class DataHelper {
     }
 
     public static String getSpecSymbol() {
-        var specSymbols = new String[]{
+        String[] specSymbols = {
                 "!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "_", "+", "=", "{", "}", "[", "]", "<", ">", "/", "?"
         };
         return specSymbols[new Random().nextInt(specSymbols.length)];
@@ -137,9 +137,9 @@ public class DataHelper {
         return transliterate(firstName) + getSpecSymbol() + " " + transliterate(lastName) + get2Digits();
     }
 
-    public static String getNameCardholderWithCyrillicAlphabet() {
+    public static String getNameCardholderWithCyrillic() {
         Faker faker = new Faker(new Locale("ru"));
-        return faker.name().firstName() + " " + faker.name().lastName();
+        return faker.name().firstName() + getSpecSymbol() + " " + faker.name().lastName();
     }
 
     public static String getNameCardholderWithNumbers() {
