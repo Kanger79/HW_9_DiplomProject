@@ -6,7 +6,6 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import ru.netology.diplomProject.Data.DataHelper;
 import ru.netology.diplomProject.Data.SQLHelper;
-import ru.netology.diplomProject.Page.Buy;
 import ru.netology.diplomProject.Page.BuyInCredit;
 
 import static com.codeborne.selenide.Selenide.open;
@@ -17,7 +16,6 @@ public class BuyInCreditTest {
 
     public static String url = System.getProperty("sut.url");
     BuyInCredit buyInCredit = new BuyInCredit();
-
 
     @BeforeEach
     public void openPage() {

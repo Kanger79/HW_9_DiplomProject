@@ -21,10 +21,6 @@ public class DataHelper {
         return "4444444444444442";
     }
 
-    public static String getNewCardNumber() {
-        return faker.numerify("#### #### #### ####");
-    }
-
     public static String getCardNumber15Digits() {
         return "444444444444444";
     }
@@ -140,14 +136,6 @@ public class DataHelper {
     public static String getNameCardholderWithCyrillic() {
         Faker faker = new Faker(new Locale("ru"));
         return faker.name().firstName() + getSpecSymbol() + " " + faker.name().lastName();
-    }
-
-    public static String getNameCardholderWithNumbers() {
-        return faker.name().firstName() + faker.numerify("#####");
-    }
-
-    public static String getNameCardholderWithInvalidSymbol() {
-        return faker.name().firstName() + "!@_+*";
     }
 
 }

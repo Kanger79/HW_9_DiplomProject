@@ -1,7 +1,6 @@
 package ru.netology.diplomProject.Page;
 
 import com.codeborne.selenide.SelenideElement;
-import org.junit.jupiter.api.Test;
 
 import java.time.Duration;
 
@@ -22,9 +21,7 @@ public class Buy {
     private SelenideElement cardCvc = $(byText("CVC/CVV")).parent().$("[class='input__control']");
     private SelenideElement buySuccess = $(byText("Операция одобрена Банком.")).parent().$("[class='notification__content']");
     private SelenideElement buyError = $(byText("Ошибка! Банк отказал в проведении операции.")).parent().$("[class='notification__content']");
-
     private SelenideElement incorrectFormat = $(byText("Неверный формат"));
-
     private SelenideElement cardExpirationError = $(byText("Неверно указан срок действия карты"));
     private SelenideElement cardExpired = $(byText("Истёк срок действия карты"));
     private SelenideElement fieldNecessarily = $(byText("Поле обязательно для заполнения"));
