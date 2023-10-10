@@ -110,7 +110,7 @@
 
   4. Запустите **DBeaver** и настройте соединения с базами данных: <br>
      4.1. для базы mysql: **localhost jdbc:mysql://localhost:3306/app** <br>
-     4.2. для базы postgresql: **localhost jdbc:postgresql://localhost:5432/postgres** <br>
+     4.2. для базы postgresql: **localhost jdbc:postgresql://localhost:5432/postgres"** <br>
 
   5. Запуск автотестов производится одной из команд, каждая из которых содержит параметры и путь для подключения к своей базе: <br>
      5.1. для подключения к базе mysql: **./gradlew clean test "-Ddb.url=jdbc:mysql://localhost:3306/app"** <br>
