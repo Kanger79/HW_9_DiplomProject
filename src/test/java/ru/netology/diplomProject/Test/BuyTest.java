@@ -1,9 +1,8 @@
 package ru.netology.diplomProject.Test;
 
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.DisplayName;
-import org.junit.jupiter.api.Test;
+import com.codeborne.selenide.logevents.SelenideLogger;
+import io.qameta.allure.selenide.AllureSelenide;
+import org.junit.jupiter.api.*;
 import ru.netology.diplomProject.Data.DataHelper;
 import ru.netology.diplomProject.Data.SQLHelper;
 import ru.netology.diplomProject.Page.Buy;
@@ -22,6 +21,16 @@ public class BuyTest {
     public void openPage() {
         open(url);
         buy.buyCard();
+    }
+
+    @BeforeAll
+    static void setAll() {
+        SelenideLogger.addListener("allure", new AllureSelenide());
+    }
+
+    @AfterAll
+    static void tearDown() {
+        SelenideLogger.removeListener("allure");
     }
 
     @AfterEach
