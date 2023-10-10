@@ -116,4 +116,5 @@
      5.1. для подключения к базе mysql: **./gradlew clean test "-Ddb.url=jdbc:mysql://localhost:3306/app"** <br>
      5.2. для подключения к базе postgresql: **./gradlew clean test "-Ddb.url=jdbc:postgresql://localhost:5432/postgres** <br>
 
+  6. Для формирования отчета (Allure), после выполнения автотестов, нобходимо выполнить команду **./gradlew allureServe**
 
