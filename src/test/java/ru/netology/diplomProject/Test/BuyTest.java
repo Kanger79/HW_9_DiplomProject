@@ -18,9 +18,7 @@ public class BuyTest {
     @BeforeEach
     public void openPage() {
         open(url);
-        Buy buy = new Buy();
         buy.buyCard();
-
     }
 
     @BeforeAll
@@ -43,7 +41,6 @@ public class BuyTest {
     @Test
     @DisplayName("01_Карта одобрена (статус APPROVED)")
     public void shouldSuccessfulPurchase() {
-        Buy buy = new Buy();
         buy.setCardNumber(DataHelper.getApprovedCard());
         buy.setCardMonth(DataHelper.getMonthNumber());
         buy.setCardYear(DataHelper.getValidYear());
