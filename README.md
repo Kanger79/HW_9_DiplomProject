@@ -1,3 +1,9 @@
+<div align="right">
+  
+![netology_200x90](https://i.imgur.com/6zzdXl9.jpg)
+
+    
+
 <div align="center">
   
 # Дипломный проект по профессии 
@@ -26,7 +32,7 @@
   
   1.4. Создайте папку для проекта и распакуйте в неё содержимое скачанного архива. <br>
 
-  **Способ - 2 (должем быть установлен *Git*):**
+  **Способ - 2 (должен быть установлен *Git*):**
 
   2.1. Зайдите в репозиторий с проектом по [*ссылке*](https://github.com/Kanger79/HW_9_DiplomProject) <br>
   2.2. Нажмите на кнопку "**`<> Code`**". <br>
@@ -93,7 +99,7 @@
 
       </details>
 
-       &ensp; &ensp; 2.2.2. `java "-Dspring.datasource.url=jdbc:postgresql://localhost:5432/postgres" -jar artifacts/aqa-shop.jar` - для подключения к базе данных postgre <br>
+       &ensp; &ensp; 2.2.2. `java "-Dspring.datasource.url=jdbc:postgresql://localhost:5432/app" -jar artifacts/aqa-shop.jar` - для подключения к базе данных postgre <br>
   3. Откройте в браузере страницу **http://localhost:8080** <br>
 
      <details>
@@ -110,11 +116,11 @@
 
   4. Запустите **DBeaver** и настройте соединения с базами данных: <br>
      4.1. для базы mysql: **localhost jdbc:mysql://localhost:3306/app** <br>
-     4.2. для базы postgresql: **localhost jdbc:postgresql://localhost:5432/postgres"** <br>
+     4.2. для базы postgresql: **localhost jdbc:postgresql://localhost:5432/app"** <br>
 
   5. Запуск автотестов производится одной из команд, каждая из которых содержит параметры и путь для подключения к своей базе: <br>
      5.1. для подключения к базе mysql: **./gradlew clean test "-Ddb.url=jdbc:mysql://localhost:3306/app"** <br>
-     5.2. для подключения к базе postgresql: **./gradlew clean test "-Ddb.url=jdbc:postgresql://localhost:5432/postgres** <br>
+     5.2. для подключения к базе postgresql: **./gradlew clean test "-Ddb.url=jdbc:postgresql://localhost:5432/app"** <br>
 
   6. Для формирования отчета (Allure), после выполнения автотестов, нобходимо выполнить команду **./gradlew allureServe**
 
