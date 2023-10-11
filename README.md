@@ -1,3 +1,9 @@
+<div align="right">
+  
+![netology_200x90](https://i.imgur.com/6zzdXl9.jpg)
+
+    
+
 <div align="center">
   
 # Дипломный проект по профессии 
