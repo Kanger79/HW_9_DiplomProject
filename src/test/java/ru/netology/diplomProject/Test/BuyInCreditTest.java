@@ -1,20 +1,19 @@
-package ru.netology.diplomProject.Test;
+package ru.netology.diplomProject.test;
 
 import com.codeborne.selenide.logevents.SelenideLogger;
 import io.qameta.allure.selenide.AllureSelenide;
 import org.junit.jupiter.api.*;
-import ru.netology.diplomProject.Data.DataHelper;
-import ru.netology.diplomProject.Data.SQLHelper;
-import ru.netology.diplomProject.Page.BuyInCredit;
+import ru.netology.diplomProject.data.DataHelper;
+import ru.netology.diplomProject.data.SQLHelper;
+import ru.netology.diplomProject.page.BuyInCredit;
 
 import static com.codeborne.selenide.Selenide.open;
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static ru.netology.diplomProject.Data.SQLHelper.getOrderCount;
+import static ru.netology.diplomProject.data.SQLHelper.getOrderCount;
 
 public class BuyInCreditTest {
 
     public static String url = System.getProperty("sut.url");
-    BuyInCredit buyInCredit = new BuyInCredit();
 
     @BeforeEach
     public void openPage() {
@@ -36,6 +35,8 @@ public class BuyInCreditTest {
     public void cleanDataBase() {
         SQLHelper.cleanDatabase();
     }
+
+    BuyInCredit buyInCredit = new BuyInCredit();
 
     @Test
     @DisplayName("01_Карта одобрена (статус APPROVED)")

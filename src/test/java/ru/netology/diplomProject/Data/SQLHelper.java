@@ -1,4 +1,4 @@
-package ru.netology.diplomProject.Data;
+package ru.netology.diplomProject.data;
 
 import lombok.SneakyThrows;
 import org.apache.commons.dbutils.QueryRunner;
@@ -27,13 +27,11 @@ public class SQLHelper {
         conn.close();
     }
 
-    @SneakyThrows
     public static String getPaymentStatus() {
         String codesSQL = "SELECT status FROM payment_entity ORDER BY created DESC LIMIT 1";
         return getData(codesSQL);
     }
 
-    @SneakyThrows
     public static String getCreditStatus() {
         String codesSQL = "SELECT status FROM credit_request_entity ORDER BY created DESC LIMIT 1";
         return getData(codesSQL);
@@ -42,20 +40,17 @@ public class SQLHelper {
     @SneakyThrows
     public static long getOrderCount() {
         String codesSQL = "SELECT COUNT(*) FROM order_entity";
-        try (Connection conn = DriverManager.getConnection(url, user, password)) {
-            QueryRunner runner = new QueryRunner();
-            Long count = runner.query(conn, codesSQL, new ScalarHandler<>());
-            return count;
-        }
+        Connection conn = DriverManager.getConnection(url, user, password);
+        QueryRunner runner = new QueryRunner();
+        return runner.query(conn, codesSQL, new ScalarHandler<>());
     }
 
     @SneakyThrows
     private static String getData(String query) {
         QueryRunner runner = new QueryRunner();
         String data = "";
-        try (Connection conn = DriverManager.getConnection(url, user, password)) {
-            data = runner.query(conn, query, new ScalarHandler<>());
-        }
+        Connection conn = DriverManager.getConnection(url, user, password);
+        data = runner.query(conn, query, new ScalarHandler<>());
         return data;
     }
 }

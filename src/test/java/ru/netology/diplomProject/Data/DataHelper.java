@@ -1,4 +1,4 @@
-package ru.netology.diplomProject.Data;
+package ru.netology.diplomProject.data;
 
 import com.github.javafaker.Faker;
 import org.apache.commons.lang3.StringUtils;

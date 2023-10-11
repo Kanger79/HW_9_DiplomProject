@@ -1,4 +1,4 @@
-package ru.netology.diplomProject.Page;
+package ru.netology.diplomProject.page;
 
 import com.codeborne.selenide.SelenideElement;
 
@@ -68,6 +68,7 @@ public class BuyInCredit {
     public void incorrectFormat() {
         incorrectFormat.shouldBe(visible);
     }
+
     public void incorrectFormatHidden() {
         incorrectFormat.shouldBe(hidden);
     }
@@ -83,6 +84,7 @@ public class BuyInCredit {
     public void fieldNecessarily() {
         fieldNecessarily.shouldBe(visible);
     }
+
     public void fieldNecessarilyHidden() {
         fieldNecessarily.shouldBe(hidden);
     }

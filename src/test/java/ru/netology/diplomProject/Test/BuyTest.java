@@ -1,26 +1,26 @@
-package ru.netology.diplomProject.Test;
+package ru.netology.diplomProject.test;
 
 import com.codeborne.selenide.logevents.SelenideLogger;
 import io.qameta.allure.selenide.AllureSelenide;
 import org.junit.jupiter.api.*;
-import ru.netology.diplomProject.Data.DataHelper;
-import ru.netology.diplomProject.Data.SQLHelper;
-import ru.netology.diplomProject.Page.Buy;
+import ru.netology.diplomProject.data.DataHelper;
+import ru.netology.diplomProject.data.SQLHelper;
+import ru.netology.diplomProject.page.Buy;
 
 import static com.codeborne.selenide.Selenide.open;
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static ru.netology.diplomProject.Data.SQLHelper.getOrderCount;
+import static ru.netology.diplomProject.data.SQLHelper.getOrderCount;
 
 public class BuyTest {
 
     public static String url = System.getProperty("sut.url");
-    Buy buy = new Buy();
-
 
     @BeforeEach
     public void openPage() {
         open(url);
+        Buy buy = new Buy();
         buy.buyCard();
+
     }
 
     @BeforeAll
@@ -38,9 +38,12 @@ public class BuyTest {
         SQLHelper.cleanDatabase();
     }
 
+    Buy buy = new Buy();
+
     @Test
     @DisplayName("01_Карта одобрена (статус APPROVED)")
     public void shouldSuccessfulPurchase() {
+        Buy buy = new Buy();
         buy.setCardNumber(DataHelper.getApprovedCard());
         buy.setCardMonth(DataHelper.getMonthNumber());
         buy.setCardYear(DataHelper.getValidYear());
