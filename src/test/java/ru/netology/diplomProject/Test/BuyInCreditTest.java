@@ -13,7 +13,7 @@ import static ru.netology.diplomProject.data.SQLHelper.getOrderCount;
 
 public class BuyInCreditTest {
 
-    public static String url = System.getProperty("sut.url");
+    String url = System.getProperty("sut.url");
 
     @BeforeEach
     public void openPage() {
@@ -36,7 +36,7 @@ public class BuyInCreditTest {
         SQLHelper.cleanDatabase();
     }
 
-    BuyInCredit buyInCredit = new BuyInCredit();
+    public static BuyInCredit buyInCredit = new BuyInCredit();
 
     @Test
     @DisplayName("01_Карта одобрена (статус APPROVED)")
