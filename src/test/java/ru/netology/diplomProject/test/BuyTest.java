@@ -13,12 +13,15 @@ import static ru.netology.diplomProject.data.SQLHelper.getOrderCount;
 
 public class BuyTest {
 
+    private Buy buy;
     String url = System.getProperty("sut.url");
 
     @BeforeEach
     public void openPage() {
         open(url);
+        buy = new Buy();
         buy.buyCard();
+
     }
 
     @BeforeAll
@@ -35,8 +38,6 @@ public class BuyTest {
     public void cleanDataBase() {
         SQLHelper.cleanDatabase();
     }
-
-    public static Buy buy = new Buy();
 
     @Test
     @DisplayName("01_Карта одобрена (статус APPROVED)")
@@ -259,13 +260,27 @@ public class BuyTest {
     }
 
     @Test
-    @DisplayName("17_Карта одобрена (статус APPROVED), некорректный код CVC")
-    public void shouldErrorIncorrectCvc() {
+    @DisplayName("17_Карта одобрена (статус APPROVED), некорректный код CVC - нули")
+    public void shouldErrorCvcSetNulls() {
         buy.setCardNumber(DataHelper.getApprovedCard());
         buy.setCardMonth(DataHelper.getMonthNumber());
         buy.setCardYear(DataHelper.getValidYear());
         buy.setCardholder(DataHelper.getNameCardholder());
         buy.setCardCvv(DataHelper.get000());
+        buy.clickContinueButton();
+        buy.fieldNecessarilyHidden();
+        buy.incorrectFormat();
+        assertEquals(0, getOrderCount());
+    }
+
+    @Test
+    @DisplayName("18_Карта одобрена (статус APPROVED), некорректный код CVC - 1 цифра")
+    public void shouldErrorCvcSetTwoDigit() {
+        buy.setCardNumber(DataHelper.getApprovedCard());
+        buy.setCardMonth(DataHelper.getMonthNumber());
+        buy.setCardYear(DataHelper.getValidYear());
+        buy.setCardholder(DataHelper.getNameCardholder());
+        buy.setCardCvv(DataHelper.get1Digit());
         buy.clickContinueButton();
         buy.fieldNecessarilyHidden();
         buy.incorrectFormat();

@@ -13,11 +13,14 @@ import static ru.netology.diplomProject.data.SQLHelper.getOrderCount;
 
 public class BuyInCreditTest {
 
+    private BuyInCredit buyInCredit;
+
     String url = System.getProperty("sut.url");
 
     @BeforeEach
     public void openPage() {
         open(url);
+        buyInCredit = new BuyInCredit();
         buyInCredit.buyCredit();
     }
 
@@ -35,8 +38,6 @@ public class BuyInCreditTest {
     public void cleanDataBase() {
         SQLHelper.cleanDatabase();
     }
-
-    public static BuyInCredit buyInCredit = new BuyInCredit();
 
     @Test
     @DisplayName("01_Карта одобрена (статус APPROVED)")
@@ -259,13 +260,27 @@ public class BuyInCreditTest {
     }
 
     @Test
-    @DisplayName("17_Карта одобрена (статус APPROVED), некорректный код CVC")
-    public void shouldErrorIncorrectCvc() {
+    @DisplayName("17_Карта одобрена (статус APPROVED), некорректный код CVC - нули")
+    public void shouldErrorCvcSetNulls() {
         buyInCredit.setCardNumber(DataHelper.getApprovedCard());
         buyInCredit.setCardMonth(DataHelper.getMonthNumber());
         buyInCredit.setCardYear(DataHelper.getValidYear());
         buyInCredit.setCardholder(DataHelper.getNameCardholder());
-        buyInCredit.setCardCvv(DataHelper.getNumberFrom13To99());
+        buyInCredit.setCardCvv(DataHelper.get000());
+        buyInCredit.clickContinueButton();
+        buyInCredit.fieldNecessarilyHidden();
+        buyInCredit.incorrectFormat();
+        assertEquals(0, getOrderCount());
+    }
+
+    @Test
+    @DisplayName("18_Карта одобрена (статус APPROVED), некорректный код CVC - 2 цифры")
+    public void shouldErrorCvcSetTwoDigit() {
+        buyInCredit.setCardNumber(DataHelper.getApprovedCard());
+        buyInCredit.setCardMonth(DataHelper.getMonthNumber());
+        buyInCredit.setCardYear(DataHelper.getValidYear());
+        buyInCredit.setCardholder(DataHelper.getNameCardholder());
+        buyInCredit.setCardCvv(DataHelper.get2Digits());
         buyInCredit.clickContinueButton();
         buyInCredit.fieldNecessarilyHidden();
         buyInCredit.incorrectFormat();
